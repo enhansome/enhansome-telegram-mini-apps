@@ -1,0 +1,546 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Telegram UI",
+          "description": "Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-14T16:24:56Z",
+            "owner": "telegram-mini-apps-dev",
+            "repo": "TelegramUI",
+            "stars": 848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@tonconnect/ui",
+          "description": "Authorize your app's users with their TON wallets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T13:19:25Z",
+            "owner": "ton-connect",
+            "repo": "sdk",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@twa-dev/Mark42",
+          "description": "A simple, lightweight, and tree-shakable UI library for Telegram Mini Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-04T18:29:45Z",
+            "owner": "twa-dev",
+            "repo": "Mark42",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "UI Kits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@twa.js",
+          "description": "A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T10:00:40Z",
+            "owner": "Telegram-Mini-Apps",
+            "repo": "tma.js",
+            "stars": 1190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-telegram-web-app",
+          "description": "React hooks and components for building the WebApp API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-12-24T07:08:37Z",
+            "owner": "vkruglikov",
+            "repo": "react-telegram-web-app",
+            "stars": 615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@twa-dev/SDK",
+          "description": "The WebApp API as an npm package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-05T11:04:59Z",
+            "owner": "twa-dev",
+            "repo": "SDK",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "init-data-golang",
+          "description": "Init data validation utilities for Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-03T11:16:02Z",
+            "owner": "Telegram-Mini-Apps",
+            "repo": "init-data-golang",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "telegram-webapp-auth",
+          "description": "Init data validation utilities for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T22:05:08Z",
+            "owner": "swimmwatch",
+            "repo": "telegram-webapp-auth",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typings for Telegram Mini Apps",
+          "description": "TypeScript typings for the WebApp API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-01T22:07:11Z",
+            "owner": "DavisDmitry",
+            "repo": "telegram-webapps",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloud Storage Dedub",
+          "description": "Eruda plugin for debug Cloud Storage in Telegram Mini apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-17T18:54:29Z",
+            "owner": "websashka",
+            "repo": "eruda-tma-cloudstorage",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Telegram Onboarding Kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-08-09T13:59:27Z",
+            "owner": "Easterok",
+            "repo": "telegram-onboarding-kit",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TON integration template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-10-20T13:13:23Z",
+            "owner": "ton-community",
+            "repo": "twa-template",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ton-defi-org/tonstarter-twa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-10-20T13:13:23Z",
+            "owner": "ton-community",
+            "repo": "twa-template",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@twa-dev/vanilla-js-boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-08-19T09:35:39Z",
+            "owner": "telegram-mini-apps-dev",
+            "repo": "vanilla-js-boilerplate",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@twa-dev/vite-boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-12-04T17:25:15Z",
+            "owner": "telegram-mini-apps-dev",
+            "repo": "vite-boilerplate",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@twa-dev/webpack-boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-18T09:20:33Z",
+            "owner": "twa-dev",
+            "repo": "webpack-boilerplate",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turborepo-based fullstack monorepo with TON integration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-03-15T06:30:09Z",
+            "owner": "DKeken",
+            "repo": "turborepo-ton-trpc",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TMA Starter Kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-07T22:51:55Z",
+            "owner": "devflex-pro",
+            "repo": "tma-starter-kit",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MiniWoo",
+          "description": "A Telegram Mini App for WooCommerce.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-15T17:01:44Z",
+            "owner": "mini-woo",
+            "repo": "mini-woo",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notepher",
+          "description": "A note taking app synced with the Telegram cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-03-12T20:39:17Z",
+            "owner": "deptyped",
+            "repo": "notepher-bot",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telebook",
+          "description": "Hotel booking app concept.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-14T21:49:30Z",
+            "owner": "neSpecc",
+            "repo": "telebook",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemoCard",
+          "description": "Flashcard app for improving memory with spaced repetition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T05:11:07Z",
+            "owner": "kubk",
+            "repo": "memo-card",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MedSync",
+          "description": "Healthcare booking app concept.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-28T10:14:18Z",
+            "owner": "Latand",
+            "repo": "MedSyncWebApp",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js Example",
+          "description": "Example for developing using Next.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-31T18:26:24Z",
+            "owner": "mauriciobraz",
+            "repo": "next.js-telegram-webapp",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TeleOTP",
+          "description": "A one-time password generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T08:41:54Z",
+            "owner": "UselessStudio",
+            "repo": "TeleOTP",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiogram-aiohttp Example",
+          "description": "Example for developing using aiogram and aiohttp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-24T10:25:02Z",
+            "owner": "abdullaev388",
+            "repo": "Telegram-Web-App",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fStik",
+          "description": "Telegram sticker catalog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-18T19:18:33Z",
+            "owner": "fstik-app",
+            "repo": "catalog",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChessNowBot",
+          "description": "Play chess live with other Telegram users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-01T13:04:36Z",
+            "owner": "Quatern1on",
+            "repo": "ChessNowBot",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DPXWallet",
+          "description": "Crypto wallet app concept.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-11-15T22:14:40Z",
+            "owner": "erfanmola",
+            "repo": "DPXWallet",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python Backend Example",
+          "description": "Example for using Python for the backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-09T11:33:44Z",
+            "owner": "poshl000",
+            "repo": "telegram-webapp-bot",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StickerWiz",
+          "description": "Telegram MiniApp that allows to create personalised sticker packs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-12-11T20:04:00Z",
+            "owner": "TatianaFomina",
+            "repo": "stkrz_bot",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wishlist",
+          "description": "Organize your wishes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-12-16T21:39:55Z",
+            "owner": "grulex",
+            "repo": "telegram-wishlist-miniapp",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mini Events",
+          "description": "Python framework to create event-based Mini Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-30T13:04:23Z",
+            "owner": "mbasaglia",
+            "repo": "mini_apps",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@PaintBot",
+          "description": "Collaboratively create small hand-drawn images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-10T18:18:40Z",
+            "owner": "hip-hyena",
+            "repo": "PaintBot",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRide",
+          "description": "Ride booking app concept.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-08-06T08:29:41Z",
+            "owner": "ArashYounesi",
+            "repo": "TRide",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calculator",
+          "description": "Calculator app concept.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-10-10T19:23:50Z",
+            "owner": "ArashYounesi",
+            "repo": "TCalculator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datetime Picker",
+          "description": "Date and time picker component.",
+          "children": []
+        }
+      ],
+      "title": "Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:43.430Z",
+    "original_repository": "telegram-mini-apps-dev/awesome-telegram-mini-apps",
+    "original_repository_sha": "24dedcd56c2fa92c83baebe59125da87127e9ca1",
+    "enhanced_repository": "enhansome/enhansome-telegram-mini-apps",
+    "enhanced_repository_description": null,
+    "title": "Awesome Telegram Mini Apps with stars"
+  }
+}
