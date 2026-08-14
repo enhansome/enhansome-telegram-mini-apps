@@ -79,8 +79,8 @@ They can take advantage of many features out of the box, including seamless auth
 * [Telebook](https://github.com/neSpecc/telebook) ⭐ 190 | 🐛 0 | 🌐 Vue | 📅 2026-07-14 - Hotel booking app concept.
 * [MemoCard](https://github.com/kubk/memo-card) ⭐ 146 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-11 - Flashcard app for improving memory with spaced repetition.
 * [MedSync](https://github.com/Latand/MedSyncWebApp) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2023-11-28 - Healthcare booking app concept.
+* [TeleOTP](https://github.com/UselessStudio/TeleOTP) ⭐ 126 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-10 - A one-time password generator.
 * [Next.js Example](https://github.com/mauriciobraz/next.js-telegram-webapp) ⭐ 126 | 🐛 2 | 🌐 TypeScript | 📅 2023-03-31 - Example for developing using Next.js.
-* [TeleOTP](https://github.com/UselessStudio/TeleOTP) ⭐ 125 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-10 - A one-time password generator.
 * [aiogram-aiohttp Example](https://github.com/abdullaev388/Telegram-Web-App) ⭐ 124 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-24 - Example for developing using aiogram and aiohttp.
 * [fStik](https://github.com/fstik-app/catalog) ⭐ 64 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-18 - Telegram sticker catalog.
 * [ChessNowBot](https://github.com/Quatern1on/ChessNowBot) ⭐ 56 | 🐛 1 | 🌐 TypeScript | 📅 2023-11-01 - Play chess live with other Telegram users.
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
