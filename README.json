@@ -14,7 +14,7 @@
             "last_commit": "2025-10-14T16:24:56Z",
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 849
+            "stars": 850
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-04-03T11:16:02Z",
             "owner": "Telegram-Mini-Apps",
             "repo": "init-data-golang",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -284,7 +284,7 @@
             "last_commit": "2024-08-15T17:01:44Z",
             "owner": "mini-woo",
             "repo": "mini-woo",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:37:33.294Z",
+    "last_updated": "2026-08-16T13:38:49.452Z",
     "original_repository": "telegram-mini-apps-dev/awesome-telegram-mini-apps",
     "original_repository_sha": "24dedcd56c2fa92c83baebe59125da87127e9ca1",
     "enhanced_repository": "enhansome/enhansome-telegram-mini-apps",
