@@ -31,7 +31,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Articles
 
-> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,386 | 🐛 46 | 📅 2026-05-05.
+> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,386 | 🐛 47 | 📅 2026-05-05.
 
 * [Step-by-Step guide to build a Telegram Chatbot with a simple WebApp UI using Python](https://medium.com/@calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f)
 * [Telegram Mini App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
@@ -44,7 +44,7 @@ They can take advantage of many features out of the box, including seamless auth
 ## UI Kits
 
 * [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) ⭐ 850 | 🐛 44 | 🌐 TypeScript | 📅 2025-10-14 - Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.
-* [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) ⭐ 538 | 🐛 94 | 🌐 TypeScript | 📅 2026-08-06 - Authorize your app's users with their TON wallets.
+* [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) ⭐ 538 | 🐛 96 | 🌐 TypeScript | 📅 2026-08-06 - Authorize your app's users with their TON wallets.
 * [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) ⭐ 95 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-04 - A simple, lightweight, and tree-shakable UI library for Telegram Mini Apps.
 * [Telegram Graphics Figma file](https://www.figma.com/community/file/1248595286803212338/telegram-graphics) - Design inspirations to fasten your app's development.
 
@@ -54,7 +54,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 * [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) ⭐ 1,190 | 🐛 14 | 🌐 TypeScript | 📅 2026-07-14 - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
 * [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) ⚠️ Archived - React hooks and components for building the WebApp API.
-* [@twa-dev/SDK](https://github.com/twa-dev/SDK) ⭐ 331 | 🐛 19 | 🌐 JavaScript | 📅 2025-02-05 - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
+* [@twa-dev/SDK](https://github.com/twa-dev/SDK) ⭐ 330 | 🐛 19 | 🌐 JavaScript | 📅 2025-02-05 - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
 * [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) ⭐ 117 | 🐛 0 | 🌐 Go | 📅 2026-04-03 - Init data validation utilities for Go.
 * [telegram-webapp-auth](https://github.com/swimmwatch/telegram-webapp-auth) ⭐ 98 | 🐛 2 | 🌐 Python | 📅 2026-08-09 - Init data validation utilities for Python.
 * [Typings for Telegram Mini Apps](https://github.com/DavisDmitry/telegram-webapps/tree/master) ⭐ 95 | 🐛 0 | 📅 2026-06-01 - TypeScript typings for the WebApp API.
@@ -66,8 +66,8 @@ They can take advantage of many features out of the box, including seamless auth
 * [Telegram Onboarding Kit](https://github.com/Easterok/telegram-onboarding-kit) ⭐ 244 | 🐛 2 | 🌐 Vue | 📅 2024-08-09
 * [TON integration template](https://github.com/ton-community/twa-template) ⚠️ Archived
 * [@ton-defi-org/tonstarter-twa](https://github.com/ton-defi-org/tonstarter-twa) ⚠️ Archived
-* [@twa-dev/vanilla-js-boilerplate](https://github.com/twa-dev/vanilla-js-boilerplate) ⭐ 211 | 🐛 6 | 🌐 HTML | 📅 2025-08-19
-* [@twa-dev/vite-boilerplate](https://github.com/twa-dev/vite-boilerplate) ⭐ 200 | 🐛 9 | 🌐 CSS | 📅 2023-12-04
+* [@twa-dev/vanilla-js-boilerplate](https://github.com/twa-dev/vanilla-js-boilerplate) ⭐ 210 | 🐛 6 | 🌐 HTML | 📅 2025-08-19
+* [@twa-dev/vite-boilerplate](https://github.com/twa-dev/vite-boilerplate) ⭐ 199 | 🐛 9 | 🌐 CSS | 📅 2023-12-04
 * [@twa-dev/webpack-boilerplate](https://github.com/twa-dev/webpack-boilerplate) ⭐ 61 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-18
 * [Turborepo-based fullstack monorepo with TON integration](https://github.com/DKeken/turborepo-ton-trpc) ⚠️ Archived
 * [TMA Starter Kit](https://github.com/devflex-pro/tma-starter-kit) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-07
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

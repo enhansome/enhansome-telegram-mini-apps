@@ -90,7 +90,7 @@
             "last_commit": "2025-02-05T11:04:59Z",
             "owner": "twa-dev",
             "repo": "SDK",
-            "stars": 331
+            "stars": 330
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2025-08-19T09:35:39Z",
             "owner": "telegram-mini-apps-dev",
             "repo": "vanilla-js-boilerplate",
-            "stars": 211
+            "stars": 210
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2023-12-04T17:25:15Z",
             "owner": "telegram-mini-apps-dev",
             "repo": "vite-boilerplate",
-            "stars": 200
+            "stars": 199
           }
         },
         {
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:38:49.452Z",
+    "last_updated": "2026-08-17T13:48:51.755Z",
     "original_repository": "telegram-mini-apps-dev/awesome-telegram-mini-apps",
     "original_repository_sha": "24dedcd56c2fa92c83baebe59125da87127e9ca1",
     "enhanced_repository": "enhansome/enhansome-telegram-mini-apps",
