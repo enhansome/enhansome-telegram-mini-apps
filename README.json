@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 738096149,
             "language": "TypeScript",
             "last_commit": "2025-10-14T16:24:56Z",
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 850
+            "stars": 849
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541574870,
             "language": "TypeScript",
             "last_commit": "2026-08-06T13:19:25Z",
             "owner": "ton-connect",
             "repo": "sdk",
-            "stars": 538
+            "stars": 539
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 526198445,
             "language": "TypeScript",
             "last_commit": "2024-10-04T18:29:45Z",
             "owner": "twa-dev",
@@ -49,7 +52,7 @@
       "title": "UI Kits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 563025489,
             "language": "TypeScript",
             "last_commit": "2026-07-14T10:00:40Z",
             "owner": "Telegram-Mini-Apps",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 569313208,
             "language": "TypeScript",
             "last_commit": "2024-12-24T07:08:37Z",
             "owner": "vkruglikov",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 525268637,
             "language": "JavaScript",
             "last_commit": "2025-02-05T11:04:59Z",
             "owner": "twa-dev",
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544078443,
             "language": "Go",
             "last_commit": "2026-04-03T11:16:02Z",
             "owner": "Telegram-Mini-Apps",
             "repo": "init-data-golang",
-            "stars": 117
+            "stars": 116
           }
         },
         {
@@ -114,8 +121,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606083609,
             "language": "Python",
-            "last_commit": "2026-08-09T22:05:08Z",
+            "last_commit": "2026-08-19T06:27:21Z",
             "owner": "swimmwatch",
             "repo": "telegram-webapp-auth",
             "stars": 98
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 588605552,
             "language": null,
             "last_commit": "2026-06-01T22:07:11Z",
             "owner": "DavisDmitry",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 821508610,
             "language": "TypeScript",
             "last_commit": "2024-07-17T18:54:29Z",
             "owner": "websashka",
@@ -153,7 +163,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702584511,
             "language": "Vue",
             "last_commit": "2024-08-09T13:59:27Z",
             "owner": "Easterok",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 539603059,
             "language": "TypeScript",
             "last_commit": "2023-10-20T13:13:23Z",
             "owner": "ton-community",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 539603059,
             "language": "TypeScript",
             "last_commit": "2023-10-20T13:13:23Z",
             "owner": "ton-community",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 690064858,
             "language": "HTML",
             "last_commit": "2025-08-19T09:35:39Z",
             "owner": "telegram-mini-apps-dev",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 690239223,
             "language": "CSS",
             "last_commit": "2023-12-04T17:25:15Z",
             "owner": "telegram-mini-apps-dev",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535285318,
             "language": "JavaScript",
             "last_commit": "2023-09-18T09:20:33Z",
             "owner": "twa-dev",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 922890110,
             "language": "TypeScript",
             "last_commit": "2025-03-15T06:30:09Z",
             "owner": "DKeken",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 939737102,
             "language": "JavaScript",
             "last_commit": "2025-03-07T22:51:55Z",
             "owner": "devflex-pro",
@@ -271,7 +289,7 @@
       "title": "Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 698724688,
             "language": "TypeScript",
             "last_commit": "2024-08-15T17:01:44Z",
             "owner": "mini-woo",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 703091766,
             "language": "Vue",
             "last_commit": "2024-03-12T20:39:17Z",
             "owner": "deptyped",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696608331,
             "language": "Vue",
             "last_commit": "2026-07-14T21:49:30Z",
             "owner": "neSpecc",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 698625339,
             "language": "TypeScript",
             "last_commit": "2026-08-11T05:11:07Z",
             "owner": "kubk",
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 699230341,
             "language": "Python",
             "last_commit": "2023-11-28T10:14:18Z",
             "owner": "Latand",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 697418896,
             "language": "TypeScript",
             "last_commit": "2026-08-10T08:41:54Z",
             "owner": "UselessStudio",
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 560876495,
             "language": "TypeScript",
             "last_commit": "2023-03-31T18:26:24Z",
             "owner": "mauriciobraz",
@@ -378,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 483564943,
             "language": "JavaScript",
             "last_commit": "2022-04-24T10:25:02Z",
             "owner": "abdullaev388",
@@ -392,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702958491,
             "language": "TypeScript",
             "last_commit": "2026-01-18T19:18:33Z",
             "owner": "fstik-app",
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696898701,
             "language": "TypeScript",
             "last_commit": "2023-11-01T13:04:36Z",
             "owner": "Quatern1on",
@@ -420,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702255031,
             "language": "PHP",
             "last_commit": "2024-11-15T22:14:40Z",
             "owner": "erfanmola",
@@ -434,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501526931,
             "language": "JavaScript",
             "last_commit": "2022-06-09T11:33:44Z",
             "owner": "poshl000",
@@ -448,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 642446439,
             "language": "Vue",
             "last_commit": "2023-12-11T20:04:00Z",
             "owner": "TatianaFomina",
@@ -462,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702096657,
             "language": "Svelte",
             "last_commit": "2024-12-16T21:39:55Z",
             "owner": "grulex",
@@ -476,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 695591134,
             "language": "Python",
             "last_commit": "2025-04-30T13:04:23Z",
             "owner": "mbasaglia",
@@ -490,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702229515,
             "language": "JavaScript",
             "last_commit": "2023-10-10T18:18:40Z",
             "owner": "hip-hyena",
@@ -504,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 703200910,
             "language": "SCSS",
             "last_commit": "2024-08-06T08:29:41Z",
             "owner": "ArashYounesi",
@@ -518,26 +553,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702793491,
             "language": "Vue",
             "last_commit": "2023-10-10T19:23:50Z",
             "owner": "ArashYounesi",
             "repo": "TCalculator",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Datetime Picker",
-          "description": "Date and time picker component.",
-          "children": []
         }
       ],
       "title": "Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:51:03.353Z",
+    "last_updated": "2026-08-19T12:53:34.632Z",
     "original_repository": "telegram-mini-apps-dev/awesome-telegram-mini-apps",
+    "original_repository_id": 687933326,
     "original_repository_sha": "24dedcd56c2fa92c83baebe59125da87127e9ca1",
     "enhanced_repository": "enhansome/enhansome-telegram-mini-apps",
     "enhanced_repository_description": null,
