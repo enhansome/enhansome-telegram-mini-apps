@@ -45,7 +45,7 @@
             "last_commit": "2024-10-04T18:29:45Z",
             "owner": "twa-dev",
             "repo": "Mark42",
-            "stars": 95
+            "stars": 94
           }
         }
       ],
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 606083609,
             "language": "Python",
-            "last_commit": "2026-08-19T06:27:21Z",
+            "last_commit": "2026-08-19T23:43:10Z",
             "owner": "swimmwatch",
             "repo": "telegram-webapp-auth",
             "stars": 98
@@ -177,7 +177,7 @@
             "last_commit": "2024-08-09T13:59:27Z",
             "owner": "Easterok",
             "repo": "telegram-onboarding-kit",
-            "stars": 244
+            "stars": 243
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2023-12-04T17:25:15Z",
             "owner": "telegram-mini-apps-dev",
             "repo": "vite-boilerplate",
-            "stars": 199
+            "stars": 200
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-07-14T21:49:30Z",
             "owner": "neSpecc",
             "repo": "telebook",
-            "stars": 190
+            "stars": 191
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-11T05:11:07Z",
             "owner": "kubk",
             "repo": "memo-card",
-            "stars": 146
+            "stars": 145
           }
         },
         {
@@ -368,21 +368,6 @@
         },
         {
           "node_type": "item",
-          "title": "TeleOTP",
-          "description": "A one-time password generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 697418896,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T08:41:54Z",
-            "owner": "UselessStudio",
-            "repo": "TeleOTP",
-            "stars": 126
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Next.js Example",
           "description": "Example for developing using Next.js.",
           "children": [],
@@ -394,6 +379,21 @@
             "owner": "mauriciobraz",
             "repo": "next.js-telegram-webapp",
             "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TeleOTP",
+          "description": "A one-time password generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 697418896,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T08:41:54Z",
+            "owner": "UselessStudio",
+            "repo": "TeleOTP",
+            "stars": 125
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2024-12-16T21:39:55Z",
             "owner": "grulex",
             "repo": "telegram-wishlist-miniapp",
-            "stars": 36
+            "stars": 35
           }
         },
         {
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:52:03.303Z",
+    "last_updated": "2026-08-20T13:54:26.668Z",
     "original_repository": "telegram-mini-apps-dev/awesome-telegram-mini-apps",
     "original_repository_id": 687933326,
     "original_repository_sha": "24dedcd56c2fa92c83baebe59125da87127e9ca1",
