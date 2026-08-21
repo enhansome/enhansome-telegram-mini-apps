@@ -15,7 +15,7 @@
             "last_commit": "2025-10-14T16:24:56Z",
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 849
+            "stars": 848
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-06T13:19:25Z",
             "owner": "ton-connect",
             "repo": "sdk",
-            "stars": 539
+            "stars": 540
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 606083609,
             "language": "Python",
-            "last_commit": "2026-08-19T23:43:10Z",
+            "last_commit": "2026-08-20T23:43:10Z",
             "owner": "swimmwatch",
             "repo": "telegram-webapp-auth",
             "stars": 98
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:54:26.668Z",
+    "last_updated": "2026-08-21T13:53:08.872Z",
     "original_repository": "telegram-mini-apps-dev/awesome-telegram-mini-apps",
     "original_repository_id": 687933326,
     "original_repository_sha": "24dedcd56c2fa92c83baebe59125da87127e9ca1",
