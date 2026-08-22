@@ -31,7 +31,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Articles
 
-> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,388 | 🐛 50 | 📅 2026-05-05.
+> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,392 | 🐛 50 | 📅 2026-05-05.
 
 * [Step-by-Step guide to build a Telegram Chatbot with a simple WebApp UI using Python](https://medium.com/@calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f)
 * [Telegram Mini App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
@@ -52,7 +52,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 <!-- lint ignore double-link -->
 
-* [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) ⭐ 1,191 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-14 - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
+* [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) ⭐ 1,192 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-14 - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
 * [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) ⚠️ Archived - React hooks and components for building the WebApp API.
 * [@twa-dev/SDK](https://github.com/twa-dev/SDK) ⭐ 330 | 🐛 19 | 🌐 JavaScript | 📅 2025-02-05 - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
 * [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) ⭐ 116 | 🐛 0 | 🌐 Go | 📅 2026-04-03 - Init data validation utilities for Go.
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
