@@ -45,7 +45,7 @@
             "last_commit": "2024-10-04T18:29:45Z",
             "owner": "twa-dev",
             "repo": "Mark42",
-            "stars": 94
+            "stars": 95
           }
         }
       ],
@@ -345,7 +345,7 @@
             "archived": false,
             "id": 698625339,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T05:11:07Z",
+            "last_commit": "2026-08-25T04:21:56Z",
             "owner": "kubk",
             "repo": "memo-card",
             "stars": 145
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:06:48.409Z",
+    "last_updated": "2026-08-25T06:03:08.817Z",
     "original_repository": "telegram-mini-apps-dev/awesome-telegram-mini-apps",
     "original_repository_id": 687933326,
     "original_repository_sha": "24dedcd56c2fa92c83baebe59125da87127e9ca1",
