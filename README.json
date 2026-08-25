@@ -66,7 +66,7 @@
             "last_commit": "2026-07-14T10:00:40Z",
             "owner": "Telegram-Mini-Apps",
             "repo": "tma.js",
-            "stars": 1193
+            "stars": 1194
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2024-08-15T17:01:44Z",
             "owner": "mini-woo",
             "repo": "mini-woo",
-            "stars": 287
+            "stars": 288
           }
         },
         {
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:08.817Z",
+    "last_updated": "2026-08-25T13:57:57.948Z",
     "original_repository": "telegram-mini-apps-dev/awesome-telegram-mini-apps",
     "original_repository_id": 687933326,
     "original_repository_sha": "24dedcd56c2fa92c83baebe59125da87127e9ca1",
