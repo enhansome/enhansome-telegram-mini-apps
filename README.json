@@ -123,7 +123,7 @@
             "archived": false,
             "id": 606083609,
             "language": "Python",
-            "last_commit": "2026-08-20T23:43:10Z",
+            "last_commit": "2026-08-26T23:42:57Z",
             "owner": "swimmwatch",
             "repo": "telegram-webapp-auth",
             "stars": 98
@@ -438,7 +438,7 @@
             "last_commit": "2023-11-01T13:04:36Z",
             "owner": "Quatern1on",
             "repo": "ChessNowBot",
-            "stars": 56
+            "stars": 57
           }
         },
         {
@@ -566,9 +566,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:59:57.468Z",
-    "original_repository": "telegram-mini-apps-dev/awesome-telegram-mini-apps",
-    "original_repository_id": 687933326,
+    "last_updated": "2026-08-27T12:07:13.226Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 687933326,
+      "language": null,
+      "last_commit": "2026-05-05T13:55:28Z",
+      "owner": "telegram-mini-apps-dev",
+      "repo": "awesome-telegram-mini-apps",
+      "stars": 1391
+    },
     "original_repository_sha": "24dedcd56c2fa92c83baebe59125da87127e9ca1",
     "enhanced_repository": "enhansome/enhansome-telegram-mini-apps",
     "enhanced_repository_description": null,
