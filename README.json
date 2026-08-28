@@ -15,8 +15,9 @@
             "last_commit": "2025-10-14T16:24:56Z",
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 848
-          }
+            "stars": 847
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-06T13:19:25Z",
             "owner": "ton-connect",
             "repo": "sdk",
-            "stars": 543
-          }
+            "stars": 542
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "twa-dev",
             "repo": "Mark42",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         }
       ],
       "title": "UI Kits"
@@ -67,7 +70,8 @@
             "owner": "Telegram-Mini-Apps",
             "repo": "tma.js",
             "stars": 1193
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "vkruglikov",
             "repo": "react-telegram-web-app",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "twa-dev",
             "repo": "SDK",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "Telegram-Mini-Apps",
             "repo": "init-data-golang",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "swimmwatch",
             "repo": "telegram-webapp-auth",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "DavisDmitry",
             "repo": "telegram-webapps",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "websashka",
             "repo": "eruda-tma-cloudstorage",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         }
       ],
       "title": "Libraries"
@@ -178,7 +188,8 @@
             "owner": "Easterok",
             "repo": "telegram-onboarding-kit",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "ton-community",
             "repo": "twa-template",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "ton-community",
             "repo": "twa-template",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "telegram-mini-apps-dev",
             "repo": "vanilla-js-boilerplate",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "telegram-mini-apps-dev",
             "repo": "vite-boilerplate",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "twa-dev",
             "repo": "webpack-boilerplate",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "DKeken",
             "repo": "turborepo-ton-trpc",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "devflex-pro",
             "repo": "tma-starter-kit",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         }
       ],
       "title": "Templates"
@@ -304,7 +322,8 @@
             "owner": "mini-woo",
             "repo": "mini-woo",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "deptyped",
             "repo": "notepher-bot",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "neSpecc",
             "repo": "telebook",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "kubk",
             "repo": "memo-card",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "Latand",
             "repo": "MedSyncWebApp",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "mauriciobraz",
             "repo": "next.js-telegram-webapp",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "UselessStudio",
             "repo": "TeleOTP",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "abdullaev388",
             "repo": "Telegram-Web-App",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "fstik-app",
             "repo": "catalog",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "Quatern1on",
             "repo": "ChessNowBot",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "erfanmola",
             "repo": "DPXWallet",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "poshl000",
             "repo": "telegram-webapp-bot",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "TatianaFomina",
             "repo": "stkrz_bot",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "grulex",
             "repo": "telegram-wishlist-miniapp",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "mbasaglia",
             "repo": "mini_apps",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "hip-hyena",
             "repo": "PaintBot",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "ArashYounesi",
             "repo": "TRide",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         },
         {
           "node_type": "item",
@@ -559,14 +594,15 @@
             "owner": "ArashYounesi",
             "repo": "TCalculator",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
         }
       ],
       "title": "Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:55:24.555Z",
+    "last_updated": "2026-08-28T22:59:52.435Z",
     "original_repository_info": {
       "archived": false,
       "id": 687933326,
