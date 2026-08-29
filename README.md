@@ -56,7 +56,7 @@ They can take advantage of many features out of the box, including seamless auth
 * [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) ⚠️ Archived - React hooks and components for building the WebApp API.
 * [@twa-dev/SDK](https://github.com/twa-dev/SDK) ⭐ 330 | 🐛 19 | 🌐 JavaScript | 📅 2025-02-05 - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
 * [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) ⭐ 116 | 🐛 0 | 🌐 Go | 📅 2026-04-03 - Init data validation utilities for Go.
-* [telegram-webapp-auth](https://github.com/swimmwatch/telegram-webapp-auth) ⭐ 98 | 🐛 5 | 🌐 Python | 📅 2026-08-26 - Init data validation utilities for Python.
+* [telegram-webapp-auth](https://github.com/swimmwatch/telegram-webapp-auth) ⭐ 98 | 🐛 5 | 🌐 Python | 📅 2026-08-28 - Init data validation utilities for Python.
 * [Typings for Telegram Mini Apps](https://github.com/DavisDmitry/telegram-webapps/tree/master) ⭐ 95 | 🐛 0 | 📅 2026-06-01 - TypeScript typings for the WebApp API.
 * [Cloud Storage Dedub](https://github.com/websashka/eruda-tma-cloudstorage) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-17 - Eruda plugin for debug Cloud Storage in Telegram Mini apps.
 * [flutter\_telegram\_web](https://pub.dev/documentation/flutter_telegram_web_app/latest) - Build Telegram Mini Apps with Flutter.
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

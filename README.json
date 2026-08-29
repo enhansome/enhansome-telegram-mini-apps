@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React components library for Telegram Mini Apps inspired by Telegram interface",
+            "homepage": "https://ton.org/mini-apps",
             "id": 738096149,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-10-14T16:24:56Z",
+            "open_issues": 44,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 847
+            "stars": 847,
+            "topics": [
+              "design-systems",
+              "miniapps",
+              "react",
+              "telegram",
+              "typescript",
+              "ui-kit",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -26,12 +39,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SDK for TON Connect 2.0 — a comprehensive communication protocol between wallets and apps in TON ecosystem",
+            "homepage": null,
             "id": 541574870,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T13:19:25Z",
+            "open_issues": 97,
             "owner": "ton-connect",
             "repo": "sdk",
-            "stars": 542
+            "stars": 542,
+            "topics": [
+              "connect",
+              "javascript",
+              "sdk",
+              "ton",
+              "ton-connect",
+              "tonconnect",
+              "typescript",
+              "wallet"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -42,12 +69,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple lightweight tree-shakable UI library for TWA",
+            "homepage": "https://twa-dev.github.io/Mark42",
             "id": 526198445,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-04T18:29:45Z",
+            "open_issues": 1,
             "owner": "twa-dev",
             "repo": "Mark42",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "bot",
+              "telegram",
+              "twa-dev",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         }
@@ -64,12 +101,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Made from scratch TypeScript packages, examples and documentation you will surely need to start developing on Telegram Mini Apps.",
+            "homepage": "https://docs.telegram-mini-apps.com/",
             "id": 563025489,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-14T10:00:40Z",
+            "open_issues": 16,
             "owner": "Telegram-Mini-Apps",
             "repo": "tma.js",
-            "stars": 1193
+            "stars": 1193,
+            "topics": [
+              "javascript",
+              "node",
+              "telegram",
+              "telegram-mini-apps",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -80,12 +128,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "React components for Telegram Mini Apps",
+            "homepage": "https://www.npmjs.com/package/@vkruglikov/react-telegram-web-app",
             "id": 569313208,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-24T07:08:37Z",
+            "open_issues": 4,
             "owner": "vkruglikov",
             "repo": "react-telegram-web-app",
-            "stars": 615
+            "stars": 615,
+            "topics": [
+              "react",
+              "telegram-bot",
+              "telegram-bot-api",
+              "telegram-mini-app",
+              "telegram-web-app"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -96,12 +155,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "npm package for TWA SDK",
+            "homepage": "https://codesandbox.io/s/sdk-kj5961",
             "id": 525268637,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-05T11:04:59Z",
+            "open_issues": 19,
             "owner": "twa-dev",
             "repo": "SDK",
-            "stars": 330
+            "stars": 330,
+            "topics": [
+              "react",
+              "sdk",
+              "telegram",
+              "telegram-bot",
+              "twa-dev"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -112,12 +182,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang library to make work with Telegram Mini Apps init data easier.",
+            "homepage": null,
             "id": 544078443,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-03T11:16:02Z",
+            "open_issues": 0,
             "owner": "Telegram-Mini-Apps",
             "repo": "init-data-golang",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "go",
+              "golang",
+              "telegram",
+              "telegram-mini-apps"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -128,12 +208,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":lock: Python package that implements Telegram Mini Apps authentication algorithms.",
+            "homepage": "https://swimmwatch.github.io/telegram-webapp-auth/",
             "id": 606083609,
             "language": "Python",
-            "last_commit": "2026-08-26T23:42:57Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:43:07Z",
+            "open_issues": 5,
             "owner": "swimmwatch",
             "repo": "telegram-webapp-auth",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "python",
+              "telegram",
+              "telegram-bot",
+              "telegram-mini-apps",
+              "telegram-web-apps"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -144,12 +235,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeScript typings for Telegram Mini Apps",
+            "homepage": "https://npmjs.com/package/telegram-webapps",
             "id": 588605552,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-01T22:07:11Z",
+            "open_issues": 0,
             "owner": "DavisDmitry",
             "repo": "telegram-webapps",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "mini-apps",
+              "telegram",
+              "telegram-bot",
+              "telegram-mini-apps",
+              "telegram-web-apps",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -160,12 +263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 821508610,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-17T18:54:29Z",
+            "open_issues": 0,
             "owner": "websashka",
             "repo": "eruda-tma-cloudstorage",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         }
@@ -182,12 +290,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple-to-use tool for crafting onboardings and paywalls for Telegram Bots",
+            "homepage": "https://t.me/onboarding_kit_demo_bot",
             "id": 702584511,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2024-08-09T13:59:27Z",
+            "open_issues": 2,
             "owner": "Easterok",
             "repo": "telegram-onboarding-kit",
-            "stars": 242
+            "stars": 242,
+            "topics": [
+              "python",
+              "telegram",
+              "telegram-bot",
+              "telegram-mini-app",
+              "telegram-miniapp-contest-2023",
+              "telegram-web-app",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -198,12 +319,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Boilerplate starter template for a new Telegram Web App (TWA) interacting with the TON blockchain",
+            "homepage": null,
             "id": 539603059,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-20T13:13:23Z",
+            "open_issues": 7,
             "owner": "ton-community",
             "repo": "twa-template",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -214,12 +342,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Boilerplate starter template for a new Telegram Web App (TWA) interacting with the TON blockchain",
+            "homepage": null,
             "id": 539603059,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-20T13:13:23Z",
+            "open_issues": 7,
             "owner": "ton-community",
             "repo": "twa-template",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -230,12 +365,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a basic and straightforward Telegram Mini App(TMA) implemented using plain JavaScript, HTML, and CSS. This project aims to provide a minimalistic example of how to create a simple TWA and launch it within Telegram without relying on complex build tools or bleeding-edge libraries.",
+            "homepage": "https://telegram-mini-apps-dev.github.io/vanilla-js-boilerplate/",
             "id": 690064858,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-08-19T09:35:39Z",
+            "open_issues": 6,
             "owner": "telegram-mini-apps-dev",
             "repo": "vanilla-js-boilerplate",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "hack-ton-berfest",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -246,12 +389,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This template provides a minimal setup to get TWA working in Vite with React, TypeScript, HMR and some ESLint rules.",
+            "homepage": "https://t.me/vite_twa_example_bot/app",
             "id": 690239223,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-12-04T17:25:15Z",
+            "open_issues": 9,
             "owner": "telegram-mini-apps-dev",
             "repo": "vite-boilerplate",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "hack-ton-berfest",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -262,12 +413,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Liberal Create React App for TWA enthusiasts",
+            "homepage": "https://boilerplate-twa-dev.vercel.app",
             "id": 535285318,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-18T09:20:33Z",
+            "open_issues": 2,
             "owner": "twa-dev",
             "repo": "webpack-boilerplate",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "boilerplate-front-end",
+              "react",
+              "twa-dev"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -278,12 +438,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A modern, type-safe monorepo combining Next.js, tRPC, Tailwind, and Bun, with built-in TON Blockchain integrations and Drizzle for database operations — ready to deploy and scale.",
+            "homepage": null,
             "id": 922890110,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-03-15T06:30:09Z",
+            "open_issues": 0,
             "owner": "DKeken",
             "repo": "turborepo-ton-trpc",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -294,12 +459,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TMA Starter Kit is a ready-to-use template for developing Telegram Mini Apps, built with Quasar (Vue.js), TypeScript, Go, and MongoDB. It includes authentication, data storage, payments, API, Docker, CI/CD, and deployment tools. 🚀",
+            "homepage": "https://devflex.pro",
             "id": 939737102,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-03-07T22:51:55Z",
+            "open_issues": 0,
             "owner": "devflex-pro",
             "repo": "tma-starter-kit",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "golang",
+              "miniapps",
+              "quasar",
+              "telegram",
+              "tma",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         }
@@ -316,12 +493,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram mini app integration with WooCommerce",
+            "homepage": "https://t.me/MiniWooBot",
             "id": 698724688,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-15T17:01:44Z",
+            "open_issues": 2,
             "owner": "mini-woo",
             "repo": "mini-woo",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "js",
+              "nextjs",
+              "nodejs",
+              "telegram",
+              "telegram-bot",
+              "telegram-mini-app",
+              "telegram-miniapp-contest-2023",
+              "telegram-web-app",
+              "woocommerce",
+              "woocommerce-api",
+              "woocommerce-payment",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -332,12 +527,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Note-taking Telegram Mini App",
+            "homepage": "https://t.me/NotepherBot",
             "id": 703091766,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2024-03-12T20:39:17Z",
+            "open_issues": 4,
             "owner": "deptyped",
             "repo": "notepher-bot",
-            "stars": 213
+            "stars": 213,
+            "topics": [
+              "telegram",
+              "telegram-bot",
+              "telegram-mini-app",
+              "telegram-miniapp-contest-2023",
+              "telegram-web-app"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -348,12 +554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram Mini App example",
+            "homepage": "https://t.me/tebook_bot/telebook",
             "id": 696608331,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-07-14T21:49:30Z",
+            "open_issues": 0,
             "owner": "neSpecc",
             "repo": "telebook",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -364,12 +575,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MemoCard - Award winning Telegram app for improving memory with spaced repetition",
+            "homepage": "https://memocard.org",
             "id": 698625339,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T04:21:56Z",
+            "open_issues": 0,
             "owner": "kubk",
             "repo": "memo-card",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "anki",
+              "flashcard-application",
+              "telegram-miniapp-contest-2023"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -380,12 +600,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive Source Code for a Telegram Mini Web Application: Includes Backend, Frontend, and In-Depth Documentation",
+            "homepage": "https://medsyncbot.t.me",
             "id": 699230341,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-28T10:14:18Z",
+            "open_issues": 1,
             "owner": "Latand",
             "repo": "MedSyncWebApp",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "aiogram",
+              "aiogram-dialog",
+              "fastapi",
+              "python",
+              "react",
+              "sqlalchemy",
+              "telegram",
+              "telegram-bot",
+              "telegram-miniapp-contest-2023",
+              "telegram-web-app"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -396,12 +632,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next.js and Tailwind CSS template for Telegram Web Apps.",
+            "homepage": null,
             "id": 560876495,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-31T18:26:24Z",
+            "open_issues": 2,
             "owner": "mauriciobraz",
             "repo": "next.js-telegram-webapp",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "nextjs",
+              "reactjs",
+              "tailwindcss",
+              "telegram"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -412,12 +658,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram Mini App that allows you to generate one-time passwords inside Telegram",
+            "homepage": "https://t.me/TeleOTPAppBot",
             "id": 697418896,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-10T08:41:54Z",
+            "open_issues": 6,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "otp",
+              "otp-generator",
+              "telegram",
+              "telegram-mini-app",
+              "telegram-miniapp-contest-2023"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -428,12 +685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example of Telegram Web App in bot using aiogram and aiohttp",
+            "homepage": null,
             "id": 483564943,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-04-24T10:25:02Z",
+            "open_issues": 0,
             "owner": "abdullaev388",
             "repo": "Telegram-Web-App",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -444,12 +706,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram Mini App Sticker Catalog",
+            "homepage": "https://t.me/fStikBot/catalog",
             "id": 702958491,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-18T19:18:33Z",
+            "open_issues": 0,
             "owner": "fstik-app",
             "repo": "catalog",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "mini-app",
+              "telegram",
+              "telegram-miniapp-contest-2023"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -460,12 +731,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Telegram Mini App that brings the classic game of chess to your favorite messaging platform! Engage in thrilling chess matches with friends, colleagues, or fellow group members without leaving Telegram. ChessNowBot seamlessly integrates into your chats, offering a user-friendly interface for an immersive chess experience.",
+            "homepage": null,
             "id": 696898701,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-01T13:04:36Z",
+            "open_issues": 1,
             "owner": "Quatern1on",
             "repo": "ChessNowBot",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "nodejs",
+              "react",
+              "socket-io",
+              "telegraf",
+              "telegram",
+              "telegram-bot",
+              "telegram-miniapp-contest-2023",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -476,12 +761,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DPXWallet is a Feature-Rich demonstration of a dummy Wallet app built in Telegram",
+            "homepage": "https://erfanmola.github.io/DPXWallet/",
             "id": 702255031,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-11-15T22:14:40Z",
+            "open_issues": 0,
             "owner": "erfanmola",
             "repo": "DPXWallet",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "laravel",
+              "php",
+              "telegram",
+              "telegram-miniapp-contest-2023",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -492,12 +788,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram Web App bot example",
+            "homepage": null,
             "id": 501526931,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-09T11:33:44Z",
+            "open_issues": 1,
             "owner": "poshl000",
             "repo": "telegram-webapp-bot",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "reactjs",
+              "telegram-bot",
+              "telegram-bot-api"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -508,12 +813,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram Mini App for creating custom stickers",
+            "homepage": "https://t.me/stkrz_bot",
             "id": 642446439,
             "language": "Vue",
+            "license": null,
             "last_commit": "2023-12-11T20:04:00Z",
+            "open_issues": 0,
             "owner": "TatianaFomina",
             "repo": "stkrz_bot",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "javascript",
+              "telegram-bot",
+              "telegram-bots",
+              "telegram-mini-app",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -524,12 +841,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram MiniApp for creatin and sharing Wishlists",
+            "homepage": null,
             "id": 702096657,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2024-12-16T21:39:55Z",
+            "open_issues": 0,
             "owner": "grulex",
             "repo": "telegram-wishlist-miniapp",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -540,12 +862,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of telegram mini apps",
+            "homepage": "https://mini-apps.readthedocs.io/en/latest/",
             "id": 695591134,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-30T13:04:23Z",
+            "open_issues": 1,
             "owner": "mbasaglia",
             "repo": "mini_apps",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -556,12 +883,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 702229515,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-10T18:18:40Z",
+            "open_issues": 0,
             "owner": "hip-hyena",
             "repo": "PaintBot",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -572,12 +904,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Mini App that provides a demo flow for request fictional rides (motorcycle, car, helicopter). User is presented with a map where they can select their location (source location) and destination location, then choose vehicle type and finally place a sample request",
+            "homepage": null,
             "id": 703200910,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-08-06T08:29:41Z",
+            "open_issues": 1,
             "owner": "ArashYounesi",
             "repo": "TRide",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         },
@@ -588,12 +925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Telegram Calculator Mini App that can perform basic mathematical operations like addition, subtraction, multiplication, and division",
+            "homepage": null,
             "id": 702793491,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-10-10T19:23:50Z",
+            "open_issues": 0,
             "owner": "ArashYounesi",
             "repo": "TCalculator",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
         }
@@ -602,15 +944,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:59:52.435Z",
+    "last_updated": "2026-08-29T04:37:28.340Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
+      "homepage": "https://ton.org/mini-apps",
       "id": 687933326,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
+      "open_issues": 51,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
-      "stars": 1393
+      "stars": 1393,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "mini-apps",
+        "telegram",
+        "telegram-bot",
+        "telegram-mini-apps",
+        "telegram-web-apps",
+        "ton"
+      ]
     },
     "original_repository_sha": "24dedcd56c2fa92c83baebe59125da87127e9ca1",
     "enhanced_repository": "enhansome/enhansome-telegram-mini-apps",
