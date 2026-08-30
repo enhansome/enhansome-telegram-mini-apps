@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "design-systems",
               "miniapps",
@@ -299,7 +299,7 @@
             "open_issues": 2,
             "owner": "Easterok",
             "repo": "telegram-onboarding-kit",
-            "stars": 242,
+            "stars": 241,
             "topics": [
               "python",
               "telegram",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:05:14.577Z",
+    "last_updated": "2026-08-30T17:22:03.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 51,
+      "open_issues": 52,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1393,
