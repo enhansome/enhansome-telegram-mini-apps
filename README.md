@@ -43,7 +43,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## UI Kits
 
-* [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) ⭐ 849 | 🐛 44 | 🌐 TypeScript | 📅 2025-10-14 - Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.
+* [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) ⭐ 849 | 🐛 43 | 🌐 TypeScript | 📅 2025-10-14 - Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.
 * [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) ⭐ 542 | 🐛 98 | 🌐 TypeScript | 📅 2026-08-06 - Authorize your app's users with their TON wallets.
 * [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) ⭐ 96 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-04 - A simple, lightweight, and tree-shakable UI library for Telegram Mini Apps.
 * [Telegram Graphics Figma file](https://www.figma.com/community/file/1248595286803212338/telegram-graphics) - Design inspirations to fasten your app's development.
@@ -52,11 +52,11 @@ They can take advantage of many features out of the box, including seamless auth
 
 <!-- lint ignore double-link -->
 
-* [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) ⭐ 1,195 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-14 - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
+* [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) ⭐ 1,197 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-14 - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
 * [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) ⚠️ Archived - React hooks and components for building the WebApp API.
 * [@twa-dev/SDK](https://github.com/twa-dev/SDK) ⭐ 330 | 🐛 19 | 🌐 JavaScript | 📅 2025-02-05 - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
 * [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) ⭐ 116 | 🐛 0 | 🌐 Go | 📅 2026-04-03 - Init data validation utilities for Go.
-* [telegram-webapp-auth](https://github.com/swimmwatch/telegram-webapp-auth) ⭐ 98 | 🐛 5 | 🌐 Python | 📅 2026-08-28 - Init data validation utilities for Python.
+* [telegram-webapp-auth](https://github.com/swimmwatch/telegram-webapp-auth) ⭐ 98 | 🐛 6 | 🌐 Python | 📅 2026-08-31 - Init data validation utilities for Python.
 * [Typings for Telegram Mini Apps](https://github.com/DavisDmitry/telegram-webapps/tree/master) ⭐ 95 | 🐛 0 | 📅 2026-06-01 - TypeScript typings for the WebApp API.
 * [Cloud Storage Dedub](https://github.com/websashka/eruda-tma-cloudstorage) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-17 - Eruda plugin for debug Cloud Storage in Telegram Mini apps.
 * [flutter\_telegram\_web](https://pub.dev/documentation/flutter_telegram_web_app/latest) - Build Telegram Mini Apps with Flutter.
@@ -74,7 +74,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Projects
 
-* [MiniWoo](https://github.com/mini-woo/mini-woo) ⭐ 288 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-15 - A Telegram Mini App for WooCommerce.
+* [MiniWoo](https://github.com/mini-woo/mini-woo) ⭐ 287 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-15 - A Telegram Mini App for WooCommerce.
 * [Notepher](https://github.com/deptyped/notepher-bot) ⭐ 213 | 🐛 4 | 🌐 Vue | 📅 2024-03-12 - A note taking app synced with the Telegram cloud.
 * [Telebook](https://github.com/neSpecc/telebook) ⭐ 193 | 🐛 0 | 🌐 Vue | 📅 2026-07-14 - Hotel booking app concept.
 * [MemoCard](https://github.com/kubk/memo-card) ⭐ 145 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-25 - Flashcard app for improving memory with spaced repetition.
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
