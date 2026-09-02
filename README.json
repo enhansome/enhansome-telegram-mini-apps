@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 849,
+            "stars": 850,
             "topics": [
               "design-systems",
               "miniapps",
@@ -44,8 +44,8 @@
             "id": 541574870,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-06T13:19:25Z",
-            "open_issues": 98,
+            "last_commit": "2026-09-01T18:39:38Z",
+            "open_issues": 99,
             "owner": "ton-connect",
             "repo": "sdk",
             "stars": 542,
@@ -110,7 +110,7 @@
             "open_issues": 16,
             "owner": "Telegram-Mini-Apps",
             "repo": "tma.js",
-            "stars": 1197,
+            "stars": 1198,
             "topics": [
               "javascript",
               "node",
@@ -502,7 +502,7 @@
             "open_issues": 2,
             "owner": "mini-woo",
             "repo": "mini-woo",
-            "stars": 287,
+            "stars": 286,
             "topics": [
               "js",
               "nextjs",
@@ -580,7 +580,7 @@
             "id": 698625339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-25T04:21:56Z",
+            "last_commit": "2026-09-02T07:56:15Z",
             "open_issues": 0,
             "owner": "kubk",
             "repo": "memo-card",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:18:19.748Z",
+    "last_updated": "2026-09-02T17:06:43.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 52,
+      "open_issues": 53,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1391,
