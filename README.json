@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 850,
+            "stars": 851,
             "topics": [
               "design-systems",
               "miniapps",
@@ -502,7 +502,7 @@
             "open_issues": 2,
             "owner": "mini-woo",
             "repo": "mini-woo",
-            "stars": 286,
+            "stars": 287,
             "topics": [
               "js",
               "nextjs",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:06:43.360Z",
+    "last_updated": "2026-09-03T17:00:55.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -956,7 +956,7 @@
       "open_issues": 53,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
-      "stars": 1391,
+      "stars": 1390,
       "topics": [
         "awesome",
         "awesome-list",
