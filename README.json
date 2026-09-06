@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "design-systems",
               "miniapps",
@@ -48,7 +48,7 @@
             "open_issues": 99,
             "owner": "ton-connect",
             "repo": "sdk",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "connect",
               "javascript",
@@ -536,7 +536,7 @@
             "open_issues": 4,
             "owner": "deptyped",
             "repo": "notepher-bot",
-            "stars": 213,
+            "stars": 214,
             "topics": [
               "telegram",
               "telegram-bot",
@@ -563,7 +563,7 @@
             "open_issues": 0,
             "owner": "neSpecc",
             "repo": "telebook",
-            "stars": 193,
+            "stars": 192,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
@@ -663,8 +663,8 @@
             "id": 697418896,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-10T08:41:54Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-06T08:32:06Z",
+            "open_issues": 7,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
             "stars": 125,
@@ -715,7 +715,7 @@
             "open_issues": 0,
             "owner": "fstik-app",
             "repo": "catalog",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "mini-app",
               "telegram",
@@ -740,7 +740,7 @@
             "open_issues": 1,
             "owner": "Quatern1on",
             "repo": "ChessNowBot",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "nodejs",
               "react",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T15:58:47.885Z",
+    "last_updated": "2026-09-06T16:10:19.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 53,
+      "open_issues": 54,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1390,
