@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-10-14T16:24:56Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 853,
+            "stars": 854,
             "topics": [
               "design-systems",
               "miniapps",
@@ -110,7 +110,7 @@
             "open_issues": 16,
             "owner": "Telegram-Mini-Apps",
             "repo": "tma.js",
-            "stars": 1199,
+            "stars": 1200,
             "topics": [
               "javascript",
               "node",
@@ -188,7 +188,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-04-03T11:16:02Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Telegram-Mini-Apps",
             "repo": "init-data-golang",
             "stars": 116,
@@ -563,7 +563,7 @@
             "open_issues": 0,
             "owner": "neSpecc",
             "repo": "telebook",
-            "stars": 192,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
@@ -627,6 +627,33 @@
         },
         {
           "node_type": "item",
+          "title": "TeleOTP",
+          "description": "A one-time password generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Telegram Mini App that allows you to generate one-time passwords inside Telegram",
+            "homepage": "https://t.me/TeleOTPAppBot",
+            "id": 697418896,
+            "language": "TypeScript",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-09-06T08:32:06Z",
+            "open_issues": 7,
+            "owner": "UselessStudio",
+            "repo": "TeleOTP",
+            "stars": 126,
+            "topics": [
+              "otp",
+              "otp-generator",
+              "telegram",
+              "telegram-mini-app",
+              "telegram-miniapp-contest-2023"
+            ]
+          },
+          "first_seen": "2026-08-28T22:59:52.435Z"
+        },
+        {
+          "node_type": "item",
           "title": "Next.js Example",
           "description": "Example for developing using Next.js.",
           "children": [],
@@ -647,33 +674,6 @@
               "reactjs",
               "tailwindcss",
               "telegram"
-            ]
-          },
-          "first_seen": "2026-08-28T22:59:52.435Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TeleOTP",
-          "description": "A one-time password generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Telegram Mini App that allows you to generate one-time passwords inside Telegram",
-            "homepage": "https://t.me/TeleOTPAppBot",
-            "id": 697418896,
-            "language": "TypeScript",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-09-06T08:32:06Z",
-            "open_issues": 7,
-            "owner": "UselessStudio",
-            "repo": "TeleOTP",
-            "stars": 125,
-            "topics": [
-              "otp",
-              "otp-generator",
-              "telegram",
-              "telegram-mini-app",
-              "telegram-miniapp-contest-2023"
             ]
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:13:34.056Z",
+    "last_updated": "2026-09-08T17:13:07.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 54,
+      "open_issues": 55,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1391,
