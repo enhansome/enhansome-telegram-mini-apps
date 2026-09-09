@@ -191,7 +191,7 @@
             "open_issues": 1,
             "owner": "Telegram-Mini-Apps",
             "repo": "init-data-golang",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "go",
               "golang",
@@ -536,7 +536,7 @@
             "open_issues": 4,
             "owner": "deptyped",
             "repo": "notepher-bot",
-            "stars": 214,
+            "stars": 215,
             "topics": [
               "telegram",
               "telegram-bot",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:13:07.783Z",
+    "last_updated": "2026-09-09T17:07:45.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
