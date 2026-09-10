@@ -31,7 +31,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Articles
 
-> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,391 | 🐛 55 | 📅 2026-05-05.
+> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,394 | 🐛 55 | 📅 2026-05-05.
 
 * [Step-by-Step guide to build a Telegram Chatbot with a simple WebApp UI using Python](https://medium.com/@calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f)
 * [Telegram Mini App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
@@ -43,7 +43,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## UI Kits
 
-* [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) ⭐ 854 | 🐛 44 | 🌐 TypeScript | 📅 2025-10-14 - Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.
+* [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) ⭐ 855 | 🐛 44 | 🌐 TypeScript | 📅 2025-10-14 - Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.
 * [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) ⭐ 545 | 🐛 99 | 🌐 TypeScript | 📅 2026-09-01 - Authorize your app's users with their TON wallets.
 * [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) ⭐ 96 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-04 - A simple, lightweight, and tree-shakable UI library for Telegram Mini Apps.
 * [Telegram Graphics Figma file](https://www.figma.com/community/file/1248595286803212338/telegram-graphics) - Design inspirations to fasten your app's development.
@@ -55,7 +55,7 @@ They can take advantage of many features out of the box, including seamless auth
 * [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) ⭐ 1,200 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-14 - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
 * [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) ⚠️ Archived - React hooks and components for building the WebApp API.
 * [@twa-dev/SDK](https://github.com/twa-dev/SDK) ⭐ 330 | 🐛 19 | 🌐 JavaScript | 📅 2025-02-05 - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
-* [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) ⭐ 117 | 🐛 1 | 🌐 Go | 📅 2026-04-03 - Init data validation utilities for Go.
+* [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) ⭐ 117 | 🐛 0 | 🌐 Go | 📅 2026-09-10 - Init data validation utilities for Go.
 * [telegram-webapp-auth](https://github.com/swimmwatch/telegram-webapp-auth) ⭐ 98 | 🐛 7 | 🌐 Python | 📅 2026-09-03 - Init data validation utilities for Python.
 * [Typings for Telegram Mini Apps](https://github.com/DavisDmitry/telegram-webapps/tree/master) ⭐ 95 | 🐛 0 | 📅 2026-06-01 - TypeScript typings for the WebApp API.
 * [Cloud Storage Dedub](https://github.com/websashka/eruda-tma-cloudstorage) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-17 - Eruda plugin for debug Cloud Storage in Telegram Mini apps.
@@ -79,7 +79,7 @@ They can take advantage of many features out of the box, including seamless auth
 * [Telebook](https://github.com/neSpecc/telebook) ⭐ 193 | 🐛 0 | 🌐 Vue | 📅 2026-07-14 - Hotel booking app concept.
 * [MemoCard](https://github.com/kubk/memo-card) ⭐ 145 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-02 - Flashcard app for improving memory with spaced repetition.
 * [MedSync](https://github.com/Latand/MedSyncWebApp) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2023-11-28 - Healthcare booking app concept.
-* [TeleOTP](https://github.com/UselessStudio/TeleOTP) ⭐ 126 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - A one-time password generator.
+* [TeleOTP](https://github.com/UselessStudio/TeleOTP) ⭐ 126 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-10 - A one-time password generator.
 * [Next.js Example](https://github.com/mauriciobraz/next.js-telegram-webapp) ⭐ 126 | 🐛 2 | 🌐 TypeScript | 📅 2023-03-31 - Example for developing using Next.js.
 * [aiogram-aiohttp Example](https://github.com/abdullaev388/Telegram-Web-App) ⭐ 124 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-24 - Example for developing using aiogram and aiohttp.
 * [fStik](https://github.com/fstik-app/catalog) ⭐ 65 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-18 - Telegram sticker catalog.
@@ -87,7 +87,7 @@ They can take advantage of many features out of the box, including seamless auth
 * [DPXWallet](https://github.com/erfanmola/DPXWallet) ⭐ 46 | 🐛 0 | 🌐 PHP | 📅 2024-11-15 - Crypto wallet app concept.
 * [Python Backend Example](https://github.com/poshl000/telegram-webapp-bot) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2022-06-09 - Example for using Python for the backend.
 * [StickerWiz](https://github.com/TatianaFomina/stkrz_bot) ⭐ 37 | 🐛 0 | 🌐 Vue | 📅 2023-12-11 - Telegram MiniApp that allows to create personalised sticker packs.
-* [Wishlist](https://github.com/grulex/telegram-wishlist-miniapp) ⭐ 35 | 🐛 0 | 🌐 Svelte | 📅 2024-12-16 - Organize your wishes.
+* [Wishlist](https://github.com/grulex/telegram-wishlist-miniapp) ⭐ 36 | 🐛 0 | 🌐 Svelte | 📅 2024-12-16 - Organize your wishes.
 * [Mini Events](https://github.com/mbasaglia/mini_apps) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2025-04-30 - Python framework to create event-based Mini Apps.
 * [@PaintBot](https://github.com/hip-hyena/PaintBot) ⭐ 17 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-10 - Collaboratively create small hand-drawn images.
 * [TRide](https://github.com/ArashYounesi/TRide) ⭐ 12 | 🐛 1 | 🌐 SCSS | 📅 2024-08-06 - Ride booking app concept.
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

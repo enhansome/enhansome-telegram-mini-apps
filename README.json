@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 854,
+            "stars": 855,
             "topics": [
               "design-systems",
               "miniapps",
@@ -187,8 +187,8 @@
             "id": 544078443,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-04-03T11:16:02Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-10T10:26:23Z",
+            "open_issues": 0,
             "owner": "Telegram-Mini-Apps",
             "repo": "init-data-golang",
             "stars": 117,
@@ -637,8 +637,8 @@
             "id": 697418896,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-06T08:32:06Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-10T06:15:40Z",
+            "open_issues": 8,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
             "stars": 126,
@@ -850,7 +850,7 @@
             "open_issues": 0,
             "owner": "grulex",
             "repo": "telegram-wishlist-miniapp",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:07:45.951Z",
+    "last_updated": "2026-09-10T16:57:58.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -956,7 +956,7 @@
       "open_issues": 55,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
-      "stars": 1391,
+      "stars": 1394,
       "topics": [
         "awesome",
         "awesome-list",
