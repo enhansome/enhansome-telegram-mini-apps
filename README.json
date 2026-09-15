@@ -45,7 +45,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T18:39:38Z",
-            "open_issues": 99,
+            "open_issues": 98,
             "owner": "ton-connect",
             "repo": "sdk",
             "stars": 546,
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:32:45.610Z",
+    "last_updated": "2026-09-15T17:38:48.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 55,
+      "open_issues": 56,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1395,
