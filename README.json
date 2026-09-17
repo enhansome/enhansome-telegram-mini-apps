@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 856,
+            "stars": 857,
             "topics": [
               "design-systems",
               "miniapps",
@@ -502,7 +502,7 @@
             "open_issues": 2,
             "owner": "mini-woo",
             "repo": "mini-woo",
-            "stars": 286,
+            "stars": 285,
             "topics": [
               "js",
               "nextjs",
@@ -580,11 +580,11 @@
             "id": 698625339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T07:56:15Z",
+            "last_commit": "2026-09-17T16:38:23Z",
             "open_issues": 0,
             "owner": "kubk",
             "repo": "memo-card",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "anki",
               "flashcard-application",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:36:00.303Z",
+    "last_updated": "2026-09-17T17:35:52.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
