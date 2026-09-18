@@ -31,7 +31,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Articles
 
-> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,395 | 🐛 56 | 📅 2026-05-05.
+> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,396 | 🐛 56 | 📅 2026-05-05.
 
 * [Step-by-Step guide to build a Telegram Chatbot with a simple WebApp UI using Python](https://medium.com/@calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f)
 * [Telegram Mini App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
@@ -74,10 +74,10 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Projects
 
-* [MiniWoo](https://github.com/mini-woo/mini-woo) ⭐ 285 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-15 - A Telegram Mini App for WooCommerce.
-* [Notepher](https://github.com/deptyped/notepher-bot) ⭐ 216 | 🐛 4 | 🌐 Vue | 📅 2024-03-12 - A note taking app synced with the Telegram cloud.
-* [Telebook](https://github.com/neSpecc/telebook) ⭐ 193 | 🐛 0 | 🌐 Vue | 📅 2026-07-14 - Hotel booking app concept.
-* [MemoCard](https://github.com/kubk/memo-card) ⭐ 146 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-17 - Flashcard app for improving memory with spaced repetition.
+* [MiniWoo](https://github.com/mini-woo/mini-woo) ⭐ 286 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-15 - A Telegram Mini App for WooCommerce.
+* [Notepher](https://github.com/deptyped/notepher-bot) ⭐ 217 | 🐛 4 | 🌐 Vue | 📅 2024-03-12 - A note taking app synced with the Telegram cloud.
+* [Telebook](https://github.com/neSpecc/telebook) ⭐ 194 | 🐛 0 | 🌐 Vue | 📅 2026-07-14 - Hotel booking app concept.
+* [MemoCard](https://github.com/kubk/memo-card) ⭐ 145 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-17 - Flashcard app for improving memory with spaced repetition.
 * [MedSync](https://github.com/Latand/MedSyncWebApp) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2023-11-28 - Healthcare booking app concept.
 * [TeleOTP](https://github.com/UselessStudio/TeleOTP) ⭐ 127 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-11 - A one-time password generator.
 * [Next.js Example](https://github.com/mauriciobraz/next.js-telegram-webapp) ⭐ 126 | 🐛 2 | 🌐 TypeScript | 📅 2023-03-31 - Example for developing using Next.js.
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

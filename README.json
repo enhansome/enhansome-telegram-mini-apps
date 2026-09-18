@@ -502,7 +502,7 @@
             "open_issues": 2,
             "owner": "mini-woo",
             "repo": "mini-woo",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "js",
               "nextjs",
@@ -536,7 +536,7 @@
             "open_issues": 4,
             "owner": "deptyped",
             "repo": "notepher-bot",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "telegram",
               "telegram-bot",
@@ -563,7 +563,7 @@
             "open_issues": 0,
             "owner": "neSpecc",
             "repo": "telebook",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
@@ -584,7 +584,7 @@
             "open_issues": 0,
             "owner": "kubk",
             "repo": "memo-card",
-            "stars": 146,
+            "stars": 145,
             "topics": [
               "anki",
               "flashcard-application",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:35:52.945Z",
+    "last_updated": "2026-09-18T17:02:32.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -956,7 +956,7 @@
       "open_issues": 56,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
-      "stars": 1395,
+      "stars": 1396,
       "topics": [
         "awesome",
         "awesome-list",
