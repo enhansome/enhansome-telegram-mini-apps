@@ -48,7 +48,7 @@
             "open_issues": 98,
             "owner": "ton-connect",
             "repo": "sdk",
-            "stars": 547,
+            "stars": 546,
             "topics": [
               "connect",
               "javascript",
@@ -584,7 +584,7 @@
             "open_issues": 0,
             "owner": "kubk",
             "repo": "memo-card",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "anki",
               "flashcard-application",
@@ -694,7 +694,7 @@
             "open_issues": 0,
             "owner": "abdullaev388",
             "repo": "Telegram-Web-App",
-            "stars": 124,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:23:15.724Z",
+    "last_updated": "2026-09-20T16:45:24.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
