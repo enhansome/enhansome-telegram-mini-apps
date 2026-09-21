@@ -164,7 +164,7 @@
             "open_issues": 19,
             "owner": "twa-dev",
             "repo": "SDK",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "react",
               "sdk",
@@ -641,7 +641,7 @@
             "open_issues": 8,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "otp",
               "otp-generator",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:45:24.159Z",
+    "last_updated": "2026-09-21T18:37:16.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -956,7 +956,7 @@
       "open_issues": 56,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
-      "stars": 1398,
+      "stars": 1400,
       "topics": [
         "awesome",
         "awesome-list",
