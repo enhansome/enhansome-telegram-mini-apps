@@ -580,7 +580,7 @@
             "id": 698625339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T16:38:23Z",
+            "last_commit": "2026-09-23T12:34:14Z",
             "open_issues": 0,
             "owner": "kubk",
             "repo": "memo-card",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:36:35.193Z",
+    "last_updated": "2026-09-23T17:49:26.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 57,
+      "open_issues": 58,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1400,
