@@ -107,7 +107,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-14T10:00:40Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "Telegram-Mini-Apps",
             "repo": "tma.js",
             "stars": 1204,
@@ -328,7 +328,7 @@
             "open_issues": 7,
             "owner": "ton-community",
             "repo": "twa-template",
-            "stars": 237,
+            "stars": 236,
             "topics": [
               "hacktoberfest"
             ]
@@ -351,7 +351,7 @@
             "open_issues": 7,
             "owner": "ton-community",
             "repo": "twa-template",
-            "stars": 237,
+            "stars": 236,
             "topics": [
               "hacktoberfest"
             ]
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:04:59.954Z",
+    "last_updated": "2026-09-27T17:40:56.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
