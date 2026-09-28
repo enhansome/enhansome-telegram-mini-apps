@@ -44,7 +44,7 @@ They can take advantage of many features out of the box, including seamless auth
 ## UI Kits
 
 * [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) ⭐ 859 | 🐛 45 | 🌐 TypeScript | 📅 2025-10-14 - Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.
-* [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) ⭐ 547 | 🐛 100 | 🌐 TypeScript | 📅 2026-09-24 - Authorize your app's users with their TON wallets.
+* [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) ⭐ 548 | 🐛 98 | 🌐 TypeScript | 📅 2026-09-24 - Authorize your app's users with their TON wallets.
 * [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) ⭐ 96 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-04 - A simple, lightweight, and tree-shakable UI library for Telegram Mini Apps.
 * [Telegram Graphics Figma file](https://www.figma.com/community/file/1248595286803212338/telegram-graphics) - Design inspirations to fasten your app's development.
 
@@ -70,19 +70,19 @@ They can take advantage of many features out of the box, including seamless auth
 * [@twa-dev/vite-boilerplate](https://github.com/twa-dev/vite-boilerplate) ⭐ 200 | 🐛 9 | 🌐 CSS | 📅 2023-12-04
 * [@twa-dev/webpack-boilerplate](https://github.com/twa-dev/webpack-boilerplate) ⭐ 61 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-18
 * [Turborepo-based fullstack monorepo with TON integration](https://github.com/DKeken/turborepo-ton-trpc) ⚠️ Archived
-* [TMA Starter Kit](https://github.com/devflex-pro/tma-starter-kit) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-07
+* [TMA Starter Kit](https://github.com/devflex-pro/tma-starter-kit) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-07
 
 ## Projects
 
 * [MiniWoo](https://github.com/mini-woo/mini-woo) ⭐ 286 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-15 - A Telegram Mini App for WooCommerce.
 * [Notepher](https://github.com/deptyped/notepher-bot) ⭐ 217 | 🐛 4 | 🌐 Vue | 📅 2024-03-12 - A note taking app synced with the Telegram cloud.
 * [Telebook](https://github.com/neSpecc/telebook) ⭐ 194 | 🐛 0 | 🌐 Vue | 📅 2026-07-14 - Hotel booking app concept.
-* [MemoCard](https://github.com/kubk/memo-card) ⭐ 146 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-25 - Flashcard app for improving memory with spaced repetition.
-* [MedSync](https://github.com/Latand/MedSyncWebApp) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2023-11-28 - Healthcare booking app concept.
+* [MemoCard](https://github.com/kubk/memo-card) ⭐ 146 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28 - Flashcard app for improving memory with spaced repetition.
+* [MedSync](https://github.com/Latand/MedSyncWebApp) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2023-11-28 - Healthcare booking app concept.
 * [TeleOTP](https://github.com/UselessStudio/TeleOTP) ⭐ 128 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-11 - A one-time password generator.
 * [Next.js Example](https://github.com/mauriciobraz/next.js-telegram-webapp) ⭐ 126 | 🐛 2 | 🌐 TypeScript | 📅 2023-03-31 - Example for developing using Next.js.
 * [aiogram-aiohttp Example](https://github.com/abdullaev388/Telegram-Web-App) ⭐ 122 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-24 - Example for developing using aiogram and aiohttp.
-* [fStik](https://github.com/fstik-app/catalog) ⭐ 65 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-18 - Telegram sticker catalog.
+* [fStik](https://github.com/fstik-app/catalog) ⭐ 66 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-18 - Telegram sticker catalog.
 * [ChessNowBot](https://github.com/Quatern1on/ChessNowBot) ⭐ 58 | 🐛 1 | 🌐 TypeScript | 📅 2023-11-01 - Play chess live with other Telegram users.
 * [DPXWallet](https://github.com/erfanmola/DPXWallet) ⭐ 46 | 🐛 0 | 🌐 PHP | 📅 2024-11-15 - Crypto wallet app concept.
 * [Python Backend Example](https://github.com/poshl000/telegram-webapp-bot) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2022-06-09 - Example for using Python for the backend.
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

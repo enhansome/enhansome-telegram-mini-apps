@@ -45,10 +45,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T21:45:01Z",
-            "open_issues": 100,
+            "open_issues": 98,
             "owner": "ton-connect",
             "repo": "sdk",
-            "stars": 547,
+            "stars": 548,
             "topics": [
               "connect",
               "javascript",
@@ -328,7 +328,7 @@
             "open_issues": 7,
             "owner": "ton-community",
             "repo": "twa-template",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "hacktoberfest"
             ]
@@ -351,7 +351,7 @@
             "open_issues": 7,
             "owner": "ton-community",
             "repo": "twa-template",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "hacktoberfest"
             ]
@@ -468,7 +468,7 @@
             "open_issues": 0,
             "owner": "devflex-pro",
             "repo": "tma-starter-kit",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "golang",
               "miniapps",
@@ -580,7 +580,7 @@
             "id": 698625339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T17:18:53Z",
+            "last_commit": "2026-09-28T04:53:22Z",
             "open_issues": 0,
             "owner": "kubk",
             "repo": "memo-card",
@@ -609,7 +609,7 @@
             "open_issues": 1,
             "owner": "Latand",
             "repo": "MedSyncWebApp",
-            "stars": 142,
+            "stars": 141,
             "topics": [
               "aiogram",
               "aiogram-dialog",
@@ -715,7 +715,7 @@
             "open_issues": 0,
             "owner": "fstik-app",
             "repo": "catalog",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "mini-app",
               "telegram",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:40:56.215Z",
+    "last_updated": "2026-09-28T20:05:31.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
