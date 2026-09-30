@@ -31,7 +31,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Articles
 
-> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,401 | 🐛 60 | 📅 2026-05-05.
+> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,401 | 🐛 61 | 📅 2026-05-05.
 
 * [Step-by-Step guide to build a Telegram Chatbot with a simple WebApp UI using Python](https://medium.com/@calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f)
 * [Telegram Mini App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
@@ -52,7 +52,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 <!-- lint ignore double-link -->
 
-* [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) ⭐ 1,203 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-14 - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
+* [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) ⭐ 1,204 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-14 - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
 * [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) ⚠️ Archived - React hooks and components for building the WebApp API.
 * [@twa-dev/SDK](https://github.com/twa-dev/SDK) ⭐ 331 | 🐛 19 | 🌐 JavaScript | 📅 2025-02-05 - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
 * [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) ⭐ 116 | 🐛 0 | 🌐 Go | 📅 2026-09-10 - Init data validation utilities for Go.
@@ -79,8 +79,8 @@ They can take advantage of many features out of the box, including seamless auth
 * [Telebook](https://github.com/neSpecc/telebook) ⭐ 194 | 🐛 0 | 🌐 Vue | 📅 2026-07-14 - Hotel booking app concept.
 * [MemoCard](https://github.com/kubk/memo-card) ⭐ 146 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-29 - Flashcard app for improving memory with spaced repetition.
 * [MedSync](https://github.com/Latand/MedSyncWebApp) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2023-11-28 - Healthcare booking app concept.
-* [TeleOTP](https://github.com/UselessStudio/TeleOTP) ⭐ 128 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-28 - A one-time password generator.
-* [Next.js Example](https://github.com/mauriciobraz/next.js-telegram-webapp) ⭐ 126 | 🐛 2 | 🌐 TypeScript | 📅 2023-03-31 - Example for developing using Next.js.
+* [TeleOTP](https://github.com/UselessStudio/TeleOTP) ⭐ 129 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-28 - A one-time password generator.
+* [Next.js Example](https://github.com/mauriciobraz/next.js-telegram-webapp) ⭐ 127 | 🐛 2 | 🌐 TypeScript | 📅 2023-03-31 - Example for developing using Next.js.
 * [aiogram-aiohttp Example](https://github.com/abdullaev388/Telegram-Web-App) ⭐ 122 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-24 - Example for developing using aiogram and aiohttp.
 * [fStik](https://github.com/fstik-app/catalog) ⭐ 66 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-18 - Telegram sticker catalog.
 * [ChessNowBot](https://github.com/Quatern1on/ChessNowBot) ⭐ 58 | 🐛 1 | 🌐 TypeScript | 📅 2023-11-01 - Play chess live with other Telegram users.
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

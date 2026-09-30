@@ -110,7 +110,7 @@
             "open_issues": 7,
             "owner": "Telegram-Mini-Apps",
             "repo": "tma.js",
-            "stars": 1203,
+            "stars": 1204,
             "topics": [
               "javascript",
               "node",
@@ -641,7 +641,7 @@
             "open_issues": 9,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "otp",
               "otp-generator",
@@ -668,7 +668,7 @@
             "open_issues": 2,
             "owner": "mauriciobraz",
             "repo": "next.js-telegram-webapp",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "nextjs",
               "reactjs",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:34:31.240Z",
+    "last_updated": "2026-09-30T18:24:13.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 60,
+      "open_issues": 61,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1401,
