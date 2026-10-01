@@ -31,7 +31,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Articles
 
-> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,401 | 🐛 61 | 📅 2026-05-05.
+> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages) ⭐ 1,402 | 🐛 62 | 📅 2026-05-05.
 
 * [Step-by-Step guide to build a Telegram Chatbot with a simple WebApp UI using Python](https://medium.com/@calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f)
 * [Telegram Mini App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
@@ -43,7 +43,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## UI Kits
 
-* [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) ⭐ 858 | 🐛 45 | 🌐 TypeScript | 📅 2025-10-14 - Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.
+* [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) ⭐ 861 | 🐛 45 | 🌐 TypeScript | 📅 2025-10-14 - Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.
 * [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) ⭐ 549 | 🐛 98 | 🌐 TypeScript | 📅 2026-09-24 - Authorize your app's users with their TON wallets.
 * [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) ⭐ 96 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-04 - A simple, lightweight, and tree-shakable UI library for Telegram Mini Apps.
 * [Telegram Graphics Figma file](https://www.figma.com/community/file/1248595286803212338/telegram-graphics) - Design inspirations to fasten your app's development.
@@ -70,16 +70,16 @@ They can take advantage of many features out of the box, including seamless auth
 * [@twa-dev/vite-boilerplate](https://github.com/twa-dev/vite-boilerplate) ⭐ 200 | 🐛 9 | 🌐 CSS | 📅 2023-12-04
 * [@twa-dev/webpack-boilerplate](https://github.com/twa-dev/webpack-boilerplate) ⭐ 61 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-18
 * [Turborepo-based fullstack monorepo with TON integration](https://github.com/DKeken/turborepo-ton-trpc) ⚠️ Archived
-* [TMA Starter Kit](https://github.com/devflex-pro/tma-starter-kit) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-07
+* [TMA Starter Kit](https://github.com/devflex-pro/tma-starter-kit) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-07
 
 ## Projects
 
 * [MiniWoo](https://github.com/mini-woo/mini-woo) ⭐ 286 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-15 - A Telegram Mini App for WooCommerce.
 * [Notepher](https://github.com/deptyped/notepher-bot) ⭐ 217 | 🐛 4 | 🌐 Vue | 📅 2024-03-12 - A note taking app synced with the Telegram cloud.
 * [Telebook](https://github.com/neSpecc/telebook) ⭐ 194 | 🐛 0 | 🌐 Vue | 📅 2026-07-14 - Hotel booking app concept.
-* [MemoCard](https://github.com/kubk/memo-card) ⭐ 146 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-29 - Flashcard app for improving memory with spaced repetition.
+* [MemoCard](https://github.com/kubk/memo-card) ⭐ 146 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01 - Flashcard app for improving memory with spaced repetition.
 * [MedSync](https://github.com/Latand/MedSyncWebApp) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2023-11-28 - Healthcare booking app concept.
-* [TeleOTP](https://github.com/UselessStudio/TeleOTP) ⭐ 129 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-28 - A one-time password generator.
+* [TeleOTP](https://github.com/UselessStudio/TeleOTP) ⭐ 130 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-28 - A one-time password generator.
 * [Next.js Example](https://github.com/mauriciobraz/next.js-telegram-webapp) ⭐ 127 | 🐛 2 | 🌐 TypeScript | 📅 2023-03-31 - Example for developing using Next.js.
 * [aiogram-aiohttp Example](https://github.com/abdullaev388/Telegram-Web-App) ⭐ 122 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-24 - Example for developing using aiogram and aiohttp.
 * [fStik](https://github.com/fstik-app/catalog) ⭐ 66 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-18 - Telegram sticker catalog.
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
