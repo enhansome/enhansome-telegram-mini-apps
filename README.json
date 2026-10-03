@@ -286,7 +286,7 @@
         {
           "node_type": "item",
           "title": "Telegram Onboarding Kit",
-          "description": null,
+          "description": "Easterok/telegram-onboarding-kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -315,7 +315,7 @@
         {
           "node_type": "item",
           "title": "TON integration template",
-          "description": null,
+          "description": "ton-community/twa-template",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -338,7 +338,7 @@
         {
           "node_type": "item",
           "title": "@ton-defi-org/tonstarter-twa",
-          "description": null,
+          "description": "ton-community/twa-template",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -361,7 +361,7 @@
         {
           "node_type": "item",
           "title": "@twa-dev/vanilla-js-boilerplate",
-          "description": null,
+          "description": "telegram-mini-apps-dev/vanilla-js-boilerplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -385,7 +385,7 @@
         {
           "node_type": "item",
           "title": "@twa-dev/vite-boilerplate",
-          "description": null,
+          "description": "telegram-mini-apps-dev/vite-boilerplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -409,7 +409,7 @@
         {
           "node_type": "item",
           "title": "@twa-dev/webpack-boilerplate",
-          "description": null,
+          "description": "twa-dev/webpack-boilerplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -434,7 +434,7 @@
         {
           "node_type": "item",
           "title": "Turborepo-based fullstack monorepo with TON integration",
-          "description": null,
+          "description": "DKeken/turborepo-ton-trpc",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -455,7 +455,7 @@
         {
           "node_type": "item",
           "title": "TMA Starter Kit",
-          "description": null,
+          "description": "devflex-pro/tma-starter-kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -637,8 +637,8 @@
             "id": 697418896,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T23:01:26Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-03T04:23:10Z",
+            "open_issues": 10,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
             "stars": 130,
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:21:02.141Z",
+    "last_updated": "2026-10-03T05:08:50.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
