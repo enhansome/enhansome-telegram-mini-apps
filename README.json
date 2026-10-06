@@ -48,7 +48,7 @@
             "open_issues": 98,
             "owner": "ton-connect",
             "repo": "sdk",
-            "stars": 550,
+            "stars": 549,
             "topics": [
               "connect",
               "javascript",
@@ -299,7 +299,7 @@
             "open_issues": 2,
             "owner": "Easterok",
             "repo": "telegram-onboarding-kit",
-            "stars": 241,
+            "stars": 240,
             "topics": [
               "python",
               "telegram",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:47:11.243Z",
+    "last_updated": "2026-10-06T18:52:39.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",

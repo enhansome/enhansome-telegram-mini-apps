@@ -44,7 +44,7 @@ They can take advantage of many features out of the box, including seamless auth
 ## UI Kits
 
 * [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) ⭐ 860 | 🐛 45 | 🌐 TypeScript | 📅 2025-10-14 - Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.
-* [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) ⭐ 550 | 🐛 98 | 🌐 TypeScript | 📅 2026-09-24 - Authorize your app's users with their TON wallets.
+* [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) ⭐ 549 | 🐛 98 | 🌐 TypeScript | 📅 2026-09-24 - Authorize your app's users with their TON wallets.
 * [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) ⭐ 96 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-04 - A simple, lightweight, and tree-shakable UI library for Telegram Mini Apps.
 * [Telegram Graphics Figma file](https://www.figma.com/community/file/1248595286803212338/telegram-graphics) - Design inspirations to fasten your app's development.
 
@@ -63,7 +63,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Templates
 
-* [Telegram Onboarding Kit](https://github.com/Easterok/telegram-onboarding-kit) ⭐ 241 | 🐛 2 | 🌐 Vue | 📅 2024-08-09
+* [Telegram Onboarding Kit](https://github.com/Easterok/telegram-onboarding-kit) ⭐ 240 | 🐛 2 | 🌐 Vue | 📅 2024-08-09
 * [TON integration template](https://github.com/ton-community/twa-template) ⚠️ Archived
 * [@ton-defi-org/tonstarter-twa](https://github.com/ton-defi-org/tonstarter-twa) ⚠️ Archived
 * [@twa-dev/vanilla-js-boilerplate](https://github.com/twa-dev/vanilla-js-boilerplate) ⭐ 211 | 🐛 6 | 🌐 HTML | 📅 2025-08-19
