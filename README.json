@@ -213,8 +213,8 @@
             "id": 606083609,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T11:52:17Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-05T23:43:38Z",
+            "open_issues": 8,
             "owner": "swimmwatch",
             "repo": "telegram-webapp-auth",
             "stars": 98,
@@ -637,7 +637,7 @@
             "id": 697418896,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T04:23:10Z",
+            "last_commit": "2026-10-05T21:33:43Z",
             "open_issues": 10,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:28:47.922Z",
+    "last_updated": "2026-10-06T10:47:11.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -956,7 +956,7 @@
       "open_issues": 64,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
-      "stars": 1403,
+      "stars": 1402,
       "topics": [
         "awesome",
         "awesome-list",
