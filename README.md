@@ -55,7 +55,7 @@ They can take advantage of many features out of the box, including seamless auth
 * [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) ⭐ 1,205 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-09 - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
 * [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) ⚠️ Archived - React hooks and components for building the WebApp API.
 * [@twa-dev/SDK](https://github.com/twa-dev/SDK) ⭐ 331 | 🐛 19 | 🌐 JavaScript | 📅 2025-02-05 - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
-* [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) ⭐ 116 | 🐛 0 | 🌐 Go | 📅 2026-09-10 - Init data validation utilities for Go.
+* [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) ⭐ 117 | 🐛 0 | 🌐 Go | 📅 2026-09-10 - Init data validation utilities for Go.
 * [telegram-webapp-auth](https://github.com/swimmwatch/telegram-webapp-auth) ⭐ 98 | 🐛 8 | 🌐 Python | 📅 2026-10-05 - Init data validation utilities for Python.
 * [Typings for Telegram Mini Apps](https://github.com/DavisDmitry/telegram-webapps/tree/master) ⚠️ Archived - TypeScript typings for the WebApp API.
 * [Cloud Storage Dedub](https://github.com/websashka/eruda-tma-cloudstorage) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-17 - Eruda plugin for debug Cloud Storage in Telegram Mini apps.
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

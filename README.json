@@ -106,7 +106,7 @@
             "id": 563025489,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T16:04:03Z",
+            "last_commit": "2026-10-09T20:13:48Z",
             "open_issues": 7,
             "owner": "Telegram-Mini-Apps",
             "repo": "tma.js",
@@ -191,7 +191,7 @@
             "open_issues": 0,
             "owner": "Telegram-Mini-Apps",
             "repo": "init-data-golang",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "go",
               "golang",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:45:26.504Z",
+    "last_updated": "2026-10-10T17:47:27.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 66,
+      "open_issues": 67,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1402,
