@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 860,
+            "stars": 861,
             "topics": [
               "design-systems",
               "miniapps",
@@ -44,11 +44,11 @@
             "id": 541574870,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T23:48:35Z",
-            "open_issues": 95,
+            "last_commit": "2026-10-14T16:07:23Z",
+            "open_issues": 96,
             "owner": "ton-connect",
             "repo": "sdk",
-            "stars": 555,
+            "stars": 556,
             "topics": [
               "connect",
               "javascript",
@@ -164,7 +164,7 @@
             "open_issues": 19,
             "owner": "twa-dev",
             "repo": "SDK",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "react",
               "sdk",
@@ -217,7 +217,7 @@
             "open_issues": 8,
             "owner": "swimmwatch",
             "repo": "telegram-webapp-auth",
-            "stars": 99,
+            "stars": 100,
             "topics": [
               "python",
               "telegram",
@@ -299,7 +299,7 @@
             "open_issues": 2,
             "owner": "Easterok",
             "repo": "telegram-onboarding-kit",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "python",
               "telegram",
@@ -563,7 +563,7 @@
             "open_issues": 0,
             "owner": "neSpecc",
             "repo": "telebook",
-            "stars": 194,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
@@ -641,7 +641,7 @@
             "open_issues": 10,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
-            "stars": 130,
+            "stars": 128,
             "topics": [
               "otp",
               "otp-generator",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:50:10.064Z",
+    "last_updated": "2026-10-14T17:57:11.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
