@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 863,
+            "stars": 864,
             "topics": [
               "design-systems",
               "miniapps",
@@ -110,7 +110,7 @@
             "open_issues": 5,
             "owner": "Telegram-Mini-Apps",
             "repo": "tma.js",
-            "stars": 1206,
+            "stars": 1207,
             "topics": [
               "javascript",
               "node",
@@ -164,7 +164,7 @@
             "open_issues": 19,
             "owner": "twa-dev",
             "repo": "SDK",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "react",
               "sdk",
@@ -374,7 +374,7 @@
             "open_issues": 6,
             "owner": "telegram-mini-apps-dev",
             "repo": "vanilla-js-boilerplate",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "hack-ton-berfest",
               "hacktoberfest"
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:19:05.824Z",
+    "last_updated": "2026-10-18T16:28:03.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 77,
+      "open_issues": 78,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1403,
