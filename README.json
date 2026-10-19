@@ -584,7 +584,7 @@
             "open_issues": 0,
             "owner": "kubk",
             "repo": "memo-card",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "anki",
               "flashcard-application",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:28:03.896Z",
+    "last_updated": "2026-10-19T19:15:04.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 78,
+      "open_issues": 80,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1403,
