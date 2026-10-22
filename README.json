@@ -44,8 +44,8 @@
             "id": 541574870,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T17:32:21Z",
-            "open_issues": 95,
+            "last_commit": "2026-10-22T16:16:03Z",
+            "open_issues": 96,
             "owner": "ton-connect",
             "repo": "sdk",
             "stars": 558,
@@ -328,7 +328,7 @@
             "open_issues": 7,
             "owner": "ton-community",
             "repo": "twa-template",
-            "stars": 237,
+            "stars": 236,
             "topics": [
               "hacktoberfest"
             ]
@@ -351,7 +351,7 @@
             "open_issues": 7,
             "owner": "ton-community",
             "repo": "twa-template",
-            "stars": 237,
+            "stars": 236,
             "topics": [
               "hacktoberfest"
             ]
@@ -447,7 +447,7 @@
             "open_issues": 0,
             "owner": "DKeken",
             "repo": "turborepo-ton-trpc",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
@@ -637,8 +637,8 @@
             "id": 697418896,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T21:33:43Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-22T14:51:49Z",
+            "open_issues": 11,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
             "stars": 128,
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T17:59:00.441Z",
+    "last_updated": "2026-10-22T17:56:09.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 82,
+      "open_issues": 84,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1403,
