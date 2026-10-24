@@ -66,7 +66,7 @@ They can take advantage of many features out of the box, including seamless auth
 * [Telegram Onboarding Kit](https://github.com/Easterok/telegram-onboarding-kit) ⭐ 241 | 🐛 2 | 🌐 Vue | 📅 2024-08-09
 * [TON integration template](https://github.com/ton-community/twa-template) ⚠️ Archived
 * [@ton-defi-org/tonstarter-twa](https://github.com/ton-defi-org/tonstarter-twa) ⚠️ Archived
-* [@twa-dev/vanilla-js-boilerplate](https://github.com/twa-dev/vanilla-js-boilerplate) ⭐ 212 | 🐛 6 | 🌐 HTML | 📅 2025-08-19
+* [@twa-dev/vanilla-js-boilerplate](https://github.com/twa-dev/vanilla-js-boilerplate) ⭐ 211 | 🐛 6 | 🌐 HTML | 📅 2025-08-19
 * [@twa-dev/vite-boilerplate](https://github.com/twa-dev/vite-boilerplate) ⭐ 200 | 🐛 9 | 🌐 CSS | 📅 2023-12-04
 * [@twa-dev/webpack-boilerplate](https://github.com/twa-dev/webpack-boilerplate) ⭐ 61 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-18
 * [Turborepo-based fullstack monorepo with TON integration](https://github.com/DKeken/turborepo-ton-trpc) ⚠️ Archived
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

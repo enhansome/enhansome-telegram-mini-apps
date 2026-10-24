@@ -137,7 +137,7 @@
             "open_issues": 4,
             "owner": "vkruglikov",
             "repo": "react-telegram-web-app",
-            "stars": 614,
+            "stars": 613,
             "topics": [
               "react",
               "telegram-bot",
@@ -374,7 +374,7 @@
             "open_issues": 6,
             "owner": "telegram-mini-apps-dev",
             "repo": "vanilla-js-boilerplate",
-            "stars": 212,
+            "stars": 211,
             "topics": [
               "hack-ton-berfest",
               "hacktoberfest"
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:50:17.294Z",
+    "last_updated": "2026-10-24T16:32:07.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
