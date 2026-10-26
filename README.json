@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 867,
+            "stars": 868,
             "topics": [
               "design-systems",
               "miniapps",
@@ -213,8 +213,8 @@
             "id": 606083609,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T23:43:38Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-26T04:57:03Z",
+            "open_issues": 10,
             "owner": "swimmwatch",
             "repo": "telegram-webapp-auth",
             "stars": 101,
@@ -575,12 +575,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "MemoCard - Award winning Telegram app for improving memory with spaced repetition",
+            "description": "MemoCard - Award winning Telegram app for improving memory with spaced repetition. 1k MAU",
             "homepage": "https://memocard.org",
             "id": 698625339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T14:30:48Z",
+            "last_commit": "2026-10-26T17:58:44Z",
             "open_issues": 0,
             "owner": "kubk",
             "repo": "memo-card",
@@ -637,7 +637,7 @@
             "id": 697418896,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T14:51:49Z",
+            "last_commit": "2026-10-26T14:13:38Z",
             "open_issues": 11,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:01:20.688Z",
+    "last_updated": "2026-10-26T19:10:54.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -956,7 +956,7 @@
       "open_issues": 87,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
-      "stars": 1404,
+      "stars": 1405,
       "topics": [
         "awesome",
         "awesome-list",
