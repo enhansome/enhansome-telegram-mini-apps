@@ -217,7 +217,7 @@
             "open_issues": 11,
             "owner": "swimmwatch",
             "repo": "telegram-webapp-auth",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "python",
               "telegram",
@@ -468,7 +468,7 @@
             "open_issues": 0,
             "owner": "devflex-pro",
             "repo": "tma-starter-kit",
-            "stars": 19,
+            "stars": 18,
             "topics": [
               "golang",
               "miniapps",
@@ -637,7 +637,7 @@
             "id": 697418896,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-26T14:13:38Z",
+            "last_commit": "2026-10-29T02:32:53Z",
             "open_issues": 11,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:47:03.137Z",
+    "last_updated": "2026-10-29T18:55:26.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
