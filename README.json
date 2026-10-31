@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:32:44.095Z",
+    "last_updated": "2026-10-31T17:39:02.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,10 +953,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 88,
+      "open_issues": 89,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
-      "stars": 1405,
+      "stars": 1404,
       "topics": [
         "awesome",
         "awesome-list",
