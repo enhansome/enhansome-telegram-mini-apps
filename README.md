@@ -26,7 +26,7 @@ They can take advantage of many features out of the box, including seamless auth
 * [Official Guide](https://core.telegram.org/bots/webapps)
 * [Community Guide](https://docs.telegram-mini-apps.com)
 * [TON Documentation Guide](https://docs.ton.org/develop/dapps/twa)
-* [Telegram Mini Apps Issues](https://github.com/Telegram-Mini-Apps/issues) ⭐ 25 | 🐛 31 | 📅 2024-08-14
+* [Telegram Mini Apps Issues](https://github.com/Telegram-Mini-Apps/issues) ⭐ 26 | 🐛 31 | 📅 2024-08-14
 * [Trending Apps](https://t.me/trendingapps)
 
 ## Articles
@@ -52,7 +52,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 <!-- lint ignore double-link -->
 
-* [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) ⭐ 1,209 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-28 - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
+* [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) ⭐ 1,210 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-28 - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
 * [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) ⚠️ Archived - React hooks and components for building the WebApp API.
 * [@twa-dev/SDK](https://github.com/twa-dev/SDK) ⭐ 332 | 🐛 19 | 🌐 JavaScript | 📅 2025-02-05 - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
 * [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) ⭐ 117 | 🐛 0 | 🌐 Go | 📅 2026-09-10 - Init data validation utilities for Go.
@@ -77,7 +77,7 @@ They can take advantage of many features out of the box, including seamless auth
 * [MiniWoo](https://github.com/mini-woo/mini-woo) ⭐ 285 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-15 - A Telegram Mini App for WooCommerce.
 * [Notepher](https://github.com/deptyped/notepher-bot) ⭐ 216 | 🐛 4 | 🌐 Vue | 📅 2024-03-12 - A note taking app synced with the Telegram cloud.
 * [Telebook](https://github.com/neSpecc/telebook) ⭐ 194 | 🐛 0 | 🌐 Vue | 📅 2026-07-14 - Hotel booking app concept.
-* [MemoCard](https://github.com/kubk/memo-card) ⭐ 147 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-30 - Flashcard app for improving memory with spaced repetition.
+* [MemoCard](https://github.com/kubk/memo-card) ⭐ 147 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-01 - Flashcard app for improving memory with spaced repetition.
 * [MedSync](https://github.com/Latand/MedSyncWebApp) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2023-11-28 - Healthcare booking app concept.
 * [TeleOTP](https://github.com/UselessStudio/TeleOTP) ⭐ 128 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-29 - A one-time password generator.
 * [Next.js Example](https://github.com/mauriciobraz/next.js-telegram-webapp) ⭐ 127 | 🐛 2 | 🌐 TypeScript | 📅 2023-03-31 - Example for developing using Next.js.
@@ -113,4 +113,4 @@ They can take advantage of many features out of the box, including seamless auth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
