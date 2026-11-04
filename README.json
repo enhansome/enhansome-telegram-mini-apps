@@ -45,7 +45,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T21:50:33Z",
-            "open_issues": 98,
+            "open_issues": 100,
             "owner": "ton-connect",
             "repo": "sdk",
             "stars": 560,
@@ -563,7 +563,7 @@
             "open_issues": 0,
             "owner": "neSpecc",
             "repo": "telebook",
-            "stars": 194,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:52.435Z"
@@ -641,7 +641,7 @@
             "open_issues": 11,
             "owner": "UselessStudio",
             "repo": "TeleOTP",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "otp",
               "otp-generator",
@@ -822,7 +822,7 @@
             "open_issues": 0,
             "owner": "TatianaFomina",
             "repo": "stkrz_bot",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "javascript",
               "telegram-bot",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:03:13.781Z",
+    "last_updated": "2026-11-04T20:23:03.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,10 +953,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 87,
+      "open_issues": 90,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
-      "stars": 1404,
+      "stars": 1405,
       "topics": [
         "awesome",
         "awesome-list",
