@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 872,
+            "stars": 873,
             "topics": [
               "design-systems",
               "miniapps",
@@ -580,7 +580,7 @@
             "id": 698625339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T17:35:53Z",
+            "last_commit": "2026-11-17T16:50:34Z",
             "open_issues": 0,
             "owner": "kubk",
             "repo": "memo-card",
@@ -609,7 +609,7 @@
             "open_issues": 1,
             "owner": "Latand",
             "repo": "MedSyncWebApp",
-            "stars": 141,
+            "stars": 140,
             "topics": [
               "aiogram",
               "aiogram-dialog",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:50:26.450Z",
+    "last_updated": "2026-11-17T21:41:50.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
