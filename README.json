@@ -110,7 +110,7 @@
             "open_issues": 5,
             "owner": "Telegram-Mini-Apps",
             "repo": "tma.js",
-            "stars": 1215,
+            "stars": 1216,
             "topics": [
               "javascript",
               "node",
@@ -580,7 +580,7 @@
             "id": 698625339,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T10:12:09Z",
+            "last_commit": "2026-11-21T17:52:03Z",
             "open_issues": 0,
             "owner": "kubk",
             "repo": "memo-card",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:00:19.823Z",
+    "last_updated": "2026-11-21T20:01:27.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -956,7 +956,7 @@
       "open_issues": 97,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
-      "stars": 1407,
+      "stars": 1408,
       "topics": [
         "awesome",
         "awesome-list",
