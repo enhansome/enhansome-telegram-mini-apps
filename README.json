@@ -19,7 +19,7 @@
             "open_issues": 46,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 872,
+            "stars": 873,
             "topics": [
               "design-systems",
               "miniapps",
@@ -48,7 +48,7 @@
             "open_issues": 98,
             "owner": "ton-connect",
             "repo": "sdk",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "connect",
               "javascript",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:25:00.316Z",
+    "last_updated": "2026-11-26T22:14:32.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 98,
+      "open_issues": 99,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1411,
