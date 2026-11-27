@@ -19,7 +19,7 @@
             "open_issues": 46,
             "owner": "telegram-mini-apps-dev",
             "repo": "TelegramUI",
-            "stars": 873,
+            "stars": 874,
             "topics": [
               "design-systems",
               "miniapps",
@@ -44,11 +44,11 @@
             "id": 541574870,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T11:28:26Z",
+            "last_commit": "2026-11-27T16:44:41Z",
             "open_issues": 98,
             "owner": "ton-connect",
             "repo": "sdk",
-            "stars": 565,
+            "stars": 564,
             "topics": [
               "connect",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 5,
             "owner": "Telegram-Mini-Apps",
             "repo": "tma.js",
-            "stars": 1219,
+            "stars": 1218,
             "topics": [
               "javascript",
               "node",
@@ -188,7 +188,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-10T10:26:23Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Telegram-Mini-Apps",
             "repo": "init-data-golang",
             "stars": 116,
@@ -328,7 +328,7 @@
             "open_issues": 7,
             "owner": "ton-community",
             "repo": "twa-template",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "hacktoberfest"
             ]
@@ -351,7 +351,7 @@
             "open_issues": 7,
             "owner": "ton-community",
             "repo": "twa-template",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "hacktoberfest"
             ]
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:14:32.453Z",
+    "last_updated": "2026-11-27T21:54:29.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Telegram Mini Apps (TMA).",
@@ -953,7 +953,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-05T13:55:28Z",
-      "open_issues": 99,
+      "open_issues": 102,
       "owner": "telegram-mini-apps-dev",
       "repo": "awesome-telegram-mini-apps",
       "stars": 1411,
